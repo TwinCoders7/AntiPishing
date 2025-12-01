@@ -1,0 +1,2113 @@
+2025-05-10 21:00:29,779 - 🚀 El script ha comenzado...
+2025-05-10 21:00:29,779 - 🔗 Intentando conectar con Gmail...
+2025-05-10 21:00:30,948 - ✅ Conexión exitosa
+2025-05-10 21:00:31,111 - 🗑️ Usando carpeta de papelera: [Gmail]/Papelera
+2025-05-10 21:00:31,111 - 📬 Nota: Si un correo esperado no aparece, verifica si está en la Papelera, Spam, o marcado como leído.
+2025-05-10 21:00:31,410 - 🗑️ Correos con etiqueta 'Phishing' en la papelera antes de procesar: 0
+2025-05-10 21:00:31,847 - 📧 Total de correos no leídos encontrados: 7
+2025-05-10 21:00:31,847 - 📧 Procesando 7 correos...
+2025-05-10 21:00:32,074 - 
+📌 Asunto: Asunto importante
+2025-05-10 21:00:32,218 - 📩 Etiquetas actuales del correo: [b'11 (X-GM-LABELS ())']
+2025-05-10 21:00:32,218 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-10 21:00:32,221 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:00:32,222 - 📝 Cuerpo del mensaje (truncado):
+Prueba del conocimiento del meido
+Prueba del conocimiento del meido...
+2025-05-10 21:00:32,222 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:00:32,222 - 📋 Detalles de la evaluación:
+2025-05-10 21:00:32,222 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:00:32,457 - 📩 Correo mantenido como no leído
+2025-05-10 21:00:32,458 - ============================================================
+2025-05-10 21:00:32,661 - 
+📌 Asunto: Fwd: Asunto importante
+2025-05-10 21:00:32,827 - 📩 Etiquetas actuales del correo: [b'13 (X-GM-LABELS ())']
+2025-05-10 21:00:32,827 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-10 21:00:32,828 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:00:32,828 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: Álvaro Sánchez-Palencia Gómez <alpalencia01@gmail.com>
+Date: sáb, 10 may 2025 a las 18:53
+Subject: Asunto importante
+To: <wolfcuentaprueba@gmail.com>
+
+
+Prueba del conocimiento del meido
+---------- Forwarded message --------- De: Álvaro Sánchez-Palen...
+2025-05-10 21:00:32,828 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:00:32,828 - 📋 Detalles de la evaluación:
+2025-05-10 21:00:32,828 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:00:33,059 - 📩 Correo mantenido como no leído
+2025-05-10 21:00:33,060 - ============================================================
+2025-05-10 21:00:33,414 - 
+📌 Asunto: a
+2025-05-10 21:00:33,713 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:00:33,714 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:00:33,715 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:00:33,715 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-10 21:00:33,716 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:00:33,716 - 📋 Detalles de la evaluación:
+2025-05-10 21:00:33,716 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:00:33,927 - 📩 Correo mantenido como no leído
+2025-05-10 21:00:33,927 - ============================================================
+2025-05-10 21:00:34,229 - 
+📌 Asunto: Duda
+2025-05-10 21:00:34,428 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:00:34,428 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:00:34,430 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-10 21:00:34,595 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-10 21:00:34,595 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:00:34,596 - 📋 Detalles de la evaluación:
+2025-05-10 21:00:34,596 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:00:34,816 - 📩 Correo mantenido como no leído
+2025-05-10 21:00:34,817 - ============================================================
+2025-05-10 21:00:35,079 - 
+📌 Asunto: Fwd: Hola
+2025-05-10 21:00:35,229 - 📩 Etiquetas actuales del correo: [b'23 (X-GM-LABELS ())']
+2025-05-10 21:00:35,229 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-10 21:00:35,231 - 🔗 Enlaces extraídos: https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#cl/311816_smd/87/367132/12237/1975/50118>, https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#un/311816_smd/87/367132/12237/1975/50118>
+2025-05-10 21:00:35,396 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: Lisa assistencia <mansinghtamattak46@gmail.com>
+Date: dom, 13 abr 2025 a las 19:01
+Subject: Re: Hola
+To: alpalencia01@gmail.com <alpalencia01@gmail.com>
+Cc: alpalencia01@gmail.com <alpalencia01@gmail.com>
+
+
+Decathlon🎁
+
+Tu opinión nos importa
+¡Opi...
+2025-05-10 21:00:35,396 - 🛡️ No se detectó phishing. Puntuación: 20
+2025-05-10 21:00:35,396 - 📋 Detalles de la evaluación:
+2025-05-10 21:00:35,397 -    - Frases sospechosas: tu opinión nos importa
+2025-05-10 21:00:35,613 - 📩 Correo mantenido como no leído
+2025-05-10 21:00:35,613 - ============================================================
+2025-05-10 21:00:35,855 - 
+📌 Asunto: Fwd: Invitación N:KUWS351 - Mar 1 de abril de 2025
+2025-05-10 21:00:36,023 - 📩 Etiquetas actuales del correo: [b'24 (X-GM-LABELS ())']
+2025-05-10 21:00:36,023 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-10 21:00:36,038 - 🔗 Enlaces extraídos: https://tinyurl.com/3utvyzyf#UTdVY1N6OXNjNHRXeWVqTW5mWWNsSTc5Z3ZDN09rTkVjVXRHV2x4YWdCb0VoVnJkMXFnSHIybU9rRWliSmFSd3hIUWgwMk43bmtadmZoUG03QkRDN3RReUp1YTJOVlNnc09Lc2JhSUtKaEE9>, https://tinyurl.com/3utvyzyf#UTdVY1N6OXNjNHRXeWVqTW5mWWNsSTc5Z3ZDN09rTkVjVXRHV2x4YWdCb0VoVnJkMXFnSHIybU9rRWliSmFSd3hIUWgwMk43bmtadmZoUG03QkRDN3RReUp1YTJOVlNnc09Lc2JhSUtKaEE9>, https://tinyurl.com/3utvyzyf#UTdVY1N6OXNjNHRXeWVqTW5mWWNsSTc5Z3ZDN09rTkVjVXRHV2x4YWdCb0VoVnJkMXFnSHIybU9rRWliSmFSd3hIUWgwMk43bmtadmZoUG03QkRDN3RReUp1YTJOVlNnc09Lc2JhSUtKaEE9>, https://tinyurl.com/3utvyzyf#UTdVY1N6OXNjNHRXeWVqTW5mWWNsSTc5Z3ZDN09rTkVjVXRHV2x4YWdCb0VoVnJkMXFnSHIybU9rRWliSmFSd3hIUWgwMk43bmtadmZoUG03QkRDN3RReUp1YTJOVlNnc09Lc2JhSUtKaEE9>, https://tinyurl.com/3utvyzyf#WWlqc2l1NUZDSk9BQ0xvYVBwdG1SUjFtRGxwTStKemtqK2p4akZIVTI1QUJoTmRyUXEzMFRlRTYrWXFzMFZXY3dZdENlM3NKVFFhdVgvM0crd3dRT1JwNkY5NkFJUnZ4U29MZjBOdHVtS2s9>
+2025-05-10 21:00:36,174 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: Daniel BERO <gaildean196@gmail.com>
+Date: mar, 1 abr 2025 a las 14:28
+Subject: Invitación N:KUWS351 - Mar 1 de abril de 2025
+To: <alpalencia01@gmail.com>
+Cc: <alpalencia01@gmail.com>
+
+
+
+*RESPONDE & GANA *
+
+Has sido elegido para recibir un nuevo:...
+2025-05-10 21:00:36,175 - ⚠️ ¡POSIBLE PHISHING DETECTADO! Puntuación: 90
+2025-05-10 21:00:36,175 -    - Frases sospechosas: haz clic aquí, felicidades
+2025-05-10 21:00:36,175 -    - Dominios en lista negra: tinyurl.com
+2025-05-10 21:00:36,478 - 📩 Correo copiado a la papelera: [Gmail]/Papelera
+2025-05-10 21:00:36,681 - 📩 Etiquetas '\Inbox', '\Important', '\Starred' eliminadas
+2025-05-10 21:00:36,964 - 📩 Correo etiquetado como 'Phishing'
+2025-05-10 21:00:37,194 - 📩 Etiquetas tras etiquetar: [b'24 (X-GM-LABELS (Phishing))']
+2025-05-10 21:01:14,672 - 📩 Sincronización forzada con el servidor
+2025-05-10 21:01:15,082 - 🗑️ Correos con etiqueta 'Phishing' en la papelera: 0
+2025-05-10 21:01:15,534 - 📩 Etiquetas finales del correo: [b'24 (X-GM-LABELS (Phishing))']
+2025-05-10 21:01:15,535 - ============================================================
+2025-05-10 21:01:15,799 - ⚠️ Error al obtener correo b'25': Datos no válidos
+2025-05-10 21:01:18,062 - ⚠️ Error al obtener correo b'25': Datos no válidos
+2025-05-10 21:01:18,593 - 🗑️ Correos en la papelera ([Gmail]/Papelera): 1
+2025-05-10 21:01:19,179 -    - Correo en papelera: Asunto='Fwd: Invitación N:KUWS351 - Mar 1 de abril de 2025', Remitente='=?UTF-8?B?w4FsdmFybyBTw6FuY2hlei1QYWxlbmNpYSBHw7NtZXo=?= <alpalencia01@gmail.com>', Fecha='Sat, 10 May 2025 20:58:18 +0200', Etiquetas=1 (X-GM-LABELS ())
+2025-05-10 21:01:29,418 - 🗑️ Confirmación: Correos con etiqueta 'Phishing' en la papelera: 0
+2025-05-10 21:04:52,770 - 🚀 El script ha comenzado...
+2025-05-10 21:04:52,770 - 🔗 Intentando conectar con Gmail...
+2025-05-10 21:04:53,809 - ✅ Conexión exitosa
+2025-05-10 21:04:53,954 - 🗑️ Usando carpeta de papelera: [Gmail]/Papelera
+2025-05-10 21:04:53,954 - 📬 Nota: Si un correo esperado no aparece, verifica si está en la Papelera, Spam, o marcado como leído.
+2025-05-10 21:04:54,265 - 🗑️ Correos con etiqueta 'Phishing' en la papelera antes de procesar: 0
+2025-05-10 21:04:54,586 - 📧 Total de correos encontrados: 26
+2025-05-10 21:04:54,586 - 📧 Procesando 26 correos...
+2025-05-10 21:04:54,895 - 
+📌 Asunto: GAME: Solicitud de Alta de cliente Código de registro www.GAME.es
+2025-05-10 21:04:55,045 - 📩 Etiquetas actuales del correo: [b'1 (X-GM-LABELS ())']
+2025-05-10 21:04:55,045 - 📩 Remitente: "game" <game@game.es>
+2025-05-10 21:04:55,045 - 🛡️ Remitente confiable: "game" <game@game.es>. No se procesa.
+2025-05-10 21:04:55,253 - 📩 Correo mantenido como no leído
+2025-05-10 21:04:55,628 - ⚠️ Error al procesar correo b'1' (intento 2): 'int' object has no attribute 'decode'
+2025-05-10 21:04:57,977 - ⚠️ Error al procesar correo b'1' (intento 3): 'int' object has no attribute 'decode'
+2025-05-10 21:04:58,316 - 
+📌 Asunto: Solicitud ofertas y novedades de Game.es
+2025-05-10 21:04:58,518 - 📩 Etiquetas actuales del correo: [b'2 (X-GM-LABELS ())']
+2025-05-10 21:04:58,518 - 📩 Remitente: "game" <game@game.es>
+2025-05-10 21:04:58,518 - 🛡️ Remitente confiable: "game" <game@game.es>. No se procesa.
+2025-05-10 21:04:58,781 - 📩 Correo mantenido como no leído
+2025-05-10 21:04:59,167 - ⚠️ Error al procesar correo b'2' (intento 2): 'int' object has no attribute 'decode'
+2025-05-10 21:05:01,614 - ⚠️ Error al procesar correo b'2' (intento 3): 'int' object has no attribute 'decode'
+2025-05-10 21:05:01,930 - 
+📌 Asunto: Alerta de seguridad
+2025-05-10 21:05:02,089 - 📩 Etiquetas actuales del correo: [b'3 (X-GM-LABELS ())']
+2025-05-10 21:05:02,089 - 📩 Remitente: google <no-reply@accounts.google.com>
+2025-05-10 21:05:02,089 - 🛡️ Remitente confiable: google <no-reply@accounts.google.com>. No se procesa.
+2025-05-10 21:05:02,298 - 📩 Correo mantenido como no leído
+2025-05-10 21:05:02,656 - ⚠️ Error al procesar correo b'3' (intento 2): 'int' object has no attribute 'decode'
+2025-05-10 21:05:05,029 - ⚠️ Error al procesar correo b'3' (intento 3): 'int' object has no attribute 'decode'
+2025-05-10 21:05:05,518 - 
+📌 Asunto: Tu cuenta de Google se ha recuperado correctamente
+2025-05-10 21:05:05,769 - 📩 Etiquetas actuales del correo: [b'4 (X-GM-LABELS ())']
+2025-05-10 21:05:05,769 - 📩 Remitente: google <no-reply@accounts.google.com>
+2025-05-10 21:05:05,769 - 🛡️ Remitente confiable: google <no-reply@accounts.google.com>. No se procesa.
+2025-05-10 21:05:06,023 - 📩 Correo mantenido como no leído
+2025-05-10 21:05:06,456 - ⚠️ Error al procesar correo b'4' (intento 2): 'int' object has no attribute 'decode'
+2025-05-10 21:05:08,864 - ⚠️ Error al procesar correo b'4' (intento 3): 'int' object has no attribute 'decode'
+2025-05-10 21:05:09,244 - 
+📌 Asunto: Tu cuenta de Google se ha recuperado correctamente
+2025-05-10 21:05:09,582 - 📩 Etiquetas actuales del correo: [b'5 (X-GM-LABELS ())']
+2025-05-10 21:05:09,582 - 📩 Remitente: google <no-reply@accounts.google.com>
+2025-05-10 21:05:09,582 - 🛡️ Remitente confiable: google <no-reply@accounts.google.com>. No se procesa.
+2025-05-10 21:05:09,892 - 📩 Correo mantenido como no leído
+2025-05-10 21:05:10,400 - ⚠️ Error al procesar correo b'5' (intento 2): 'int' object has no attribute 'decode'
+2025-05-10 21:05:12,740 - ⚠️ Error al procesar correo b'5' (intento 3): 'int' object has no attribute 'decode'
+2025-05-10 21:05:13,044 - 
+📌 Asunto: Alerta de seguridad
+2025-05-10 21:05:13,202 - 📩 Etiquetas actuales del correo: [b'6 (X-GM-LABELS ())']
+2025-05-10 21:05:13,202 - 📩 Remitente: google <no-reply@accounts.google.com>
+2025-05-10 21:05:13,202 - 🛡️ Remitente confiable: google <no-reply@accounts.google.com>. No se procesa.
+2025-05-10 21:05:13,472 - 📩 Correo mantenido como no leído
+2025-05-10 21:05:13,882 - ⚠️ Error al procesar correo b'6' (intento 2): 'int' object has no attribute 'decode'
+2025-05-10 21:05:16,290 - ⚠️ Error al procesar correo b'6' (intento 3): 'int' object has no attribute 'decode'
+2025-05-10 21:05:16,611 - 
+📌 Asunto: Alerta de seguridad
+2025-05-10 21:05:16,764 - 📩 Etiquetas actuales del correo: [b'7 (X-GM-LABELS ())']
+2025-05-10 21:05:16,764 - 📩 Remitente: google <no-reply@accounts.google.com>
+2025-05-10 21:05:16,764 - 🛡️ Remitente confiable: google <no-reply@accounts.google.com>. No se procesa.
+2025-05-10 21:05:16,998 - 📩 Correo mantenido como no leído
+2025-05-10 21:05:17,433 - ⚠️ Error al procesar correo b'7' (intento 2): 'int' object has no attribute 'decode'
+2025-05-10 21:05:20,129 - ⚠️ Error al procesar correo b'7' (intento 3): 'int' object has no attribute 'decode'
+2025-05-10 21:05:20,556 - 
+📌 Asunto: Se ha activado la verificación en dos pasos
+2025-05-10 21:05:20,846 - 📩 Etiquetas actuales del correo: [b'8 (X-GM-LABELS ())']
+2025-05-10 21:05:20,846 - 📩 Remitente: google <no-reply@accounts.google.com>
+2025-05-10 21:05:20,847 - 🛡️ Remitente confiable: google <no-reply@accounts.google.com>. No se procesa.
+2025-05-10 21:05:21,153 - 📩 Correo mantenido como no leído
+2025-05-10 21:05:21,561 - ⚠️ Error al procesar correo b'8' (intento 2): 'int' object has no attribute 'decode'
+2025-05-10 21:05:24,029 - ⚠️ Error al procesar correo b'8' (intento 3): 'int' object has no attribute 'decode'
+2025-05-10 21:05:24,415 - 
+📌 Asunto: Alerta de seguridad
+2025-05-10 21:05:24,694 - 📩 Etiquetas actuales del correo: [b'9 (X-GM-LABELS ())']
+2025-05-10 21:05:24,695 - 📩 Remitente: google <no-reply@accounts.google.com>
+2025-05-10 21:05:24,695 - 🛡️ Remitente confiable: google <no-reply@accounts.google.com>. No se procesa.
+2025-05-10 21:05:25,044 - 📩 Correo mantenido como no leído
+2025-05-10 21:05:25,453 - ⚠️ Error al procesar correo b'9' (intento 2): 'int' object has no attribute 'decode'
+2025-05-10 21:05:27,901 - ⚠️ Error al procesar correo b'9' (intento 3): 'int' object has no attribute 'decode'
+2025-05-10 21:05:28,423 - 
+📌 Asunto: 
+2025-05-10 21:05:28,632 - 📩 Etiquetas actuales del correo: [b'10 (X-GM-LABELS ())']
+2025-05-10 21:05:28,632 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:05:28,634 - 🔗 Enlaces extraídos: https://www.game.es/, https://www.game.es/
+2025-05-10 21:05:28,868 - 📝 Cuerpo del mensaje (truncado):
+Bro esa es la pagina web q te dije pa comprar play
+https://www.game.es/
+Bro esa es la pagina web q te dije pa comprar play https://www.game.es/...
+2025-05-10 21:05:28,868 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:05:28,868 - 📋 Detalles de la evaluación:
+2025-05-10 21:05:28,868 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:05:29,243 - 📩 Correo mantenido como no leído
+2025-05-10 21:05:29,243 - ============================================================
+2025-05-10 21:05:29,651 - ⚠️ Error al procesar correo b'11' (intento 1): 'int' object has no attribute 'decode'
+2025-05-10 21:05:32,108 - ⚠️ Error al procesar correo b'11' (intento 2): 'int' object has no attribute 'decode'
+2025-05-10 21:05:34,435 - 
+📌 Asunto: Asunto importante
+2025-05-10 21:05:34,668 - 📩 Etiquetas actuales del correo: [b'11 (X-GM-LABELS ())']
+2025-05-10 21:05:34,669 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-10 21:05:34,670 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:05:34,670 - 📝 Cuerpo del mensaje (truncado):
+Prueba del conocimiento del meido
+Prueba del conocimiento del meido...
+2025-05-10 21:05:34,670 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:05:34,670 - 📋 Detalles de la evaluación:
+2025-05-10 21:05:34,671 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:05:34,977 - 📩 Correo mantenido como no leído
+2025-05-10 21:05:34,977 - ============================================================
+2025-05-10 21:05:35,389 - ⚠️ Error al procesar correo b'12' (intento 1): 'int' object has no attribute 'decode'
+2025-05-10 21:05:37,724 - 
+📌 Asunto: Duda
+2025-05-10 21:05:37,876 - 📩 Etiquetas actuales del correo: [b'12 (X-GM-LABELS ())']
+2025-05-10 21:05:37,876 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:05:37,877 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:05:37,877 - 📝 Cuerpo del mensaje (truncado):
+Buenas tienes el ejercicio que me explicaste en clase?
+Buenas tienes el ejercicio que me explicaste en clase?...
+2025-05-10 21:05:37,877 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:05:37,878 - 📋 Detalles de la evaluación:
+2025-05-10 21:05:37,878 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:05:38,151 - 📩 Correo mantenido como no leído
+2025-05-10 21:05:38,152 - ============================================================
+2025-05-10 21:05:38,561 - ⚠️ Error al procesar correo b'13' (intento 1): 'int' object has no attribute 'decode'
+2025-05-10 21:05:41,019 - ⚠️ Error al procesar correo b'13' (intento 2): 'int' object has no attribute 'decode'
+2025-05-10 21:05:43,377 - 
+📌 Asunto: Fwd: Asunto importante
+2025-05-10 21:05:43,578 - 📩 Etiquetas actuales del correo: [b'13 (X-GM-LABELS ())']
+2025-05-10 21:05:43,578 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-10 21:05:43,581 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:05:43,582 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: Álvaro Sánchez-Palencia Gómez <alpalencia01@gmail.com>
+Date: sáb, 10 may 2025 a las 18:53
+Subject: Asunto importante
+To: <wolfcuentaprueba@gmail.com>
+
+
+Prueba del conocimiento del meido
+---------- Forwarded message --------- De: Álvaro Sánchez-Palen...
+2025-05-10 21:05:43,582 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:05:43,582 - 📋 Detalles de la evaluación:
+2025-05-10 21:05:43,582 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:05:43,845 - 📩 Correo mantenido como no leído
+2025-05-10 21:05:43,845 - ============================================================
+2025-05-10 21:05:44,203 - ⚠️ Error al procesar correo b'14' (intento 1): 'int' object has no attribute 'decode'
+2025-05-10 21:05:46,654 - 
+📌 Asunto: Fwd: Hola
+2025-05-10 21:05:46,858 - 📩 Etiquetas actuales del correo: [b'14 (X-GM-LABELS ())']
+2025-05-10 21:05:46,858 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-10 21:05:46,865 - 🔗 Enlaces extraídos: https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#cl/311816_smd/87/367132/12237/1975/50118>, https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#un/311816_smd/87/367132/12237/1975/50118>
+2025-05-10 21:05:47,064 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: Lisa assistencia <mansinghtamattak46@gmail.com>
+Date: dom, 13 abr 2025 a las 19:01
+Subject: Re: Hola
+To: alpalencia01@gmail.com <alpalencia01@gmail.com>
+Cc: alpalencia01@gmail.com <alpalencia01@gmail.com>
+
+
+Decathlon🎁
+
+Tu opinión nos importa
+¡Opi...
+2025-05-10 21:05:47,065 - ⚠️ ¡POSIBLE PHISHING DETECTADO! Puntuación: 170
+2025-05-10 21:05:47,065 -    - Frases sospechosas: tu opinión nos importa, decathlon, gana, opinión nos importa
+2025-05-10 21:05:47,065 -    - Dominios en lista negra: insfou17776.emlnk.com
+2025-05-10 21:05:47,065 -    - Dominio sospechoso: insfou17776.emlnk.com
+2025-05-10 21:05:47,367 - 📩 Correo copiado a la papelera: [Gmail]/Papelera
+2025-05-10 21:05:47,571 - 📩 Etiquetas '\Inbox', '\Important', '\Starred' eliminadas
+2025-05-10 21:05:47,879 - 📩 Correo etiquetado como 'Phishing'
+2025-05-10 21:05:48,083 - 📩 Etiquetas tras etiquetar: [b'14 (X-GM-LABELS (Phishing))']
+2025-05-10 21:06:31,132 - 📩 Sincronización forzada con el servidor
+2025-05-10 21:06:31,603 - 🗑️ Correos con etiqueta 'Phishing' en la papelera: 0
+2025-05-10 21:06:31,982 - 📩 Etiquetas finales del correo: [b'14 (X-GM-LABELS (Phishing))']
+2025-05-10 21:06:31,982 - ============================================================
+2025-05-10 21:06:32,391 - 
+📌 Asunto: Fwd: 🚗 SUV baratos en 2025
+2025-05-10 21:06:32,543 - 📩 Etiquetas actuales del correo: [b'15 (X-GM-LABELS ())']
+2025-05-10 21:06:32,543 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-10 21:06:32,554 - 🔗 Enlaces extraídos: https://ablink.sugerencias.coches.net/uni/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IPzcpxZZ9aQMcndqVueLw3sDtOCYFrJSRSkQTzQlxkyXduBgLVWEKd7MYBJa3xqf8HOOWQNnnVqajTWgPmmiD9FVXkuEEuAv5r-2Bav3rDoABR-5ZS_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LGYS5pxfgeXUGT5qizOvA8NkAXD-2FzaSKcIJJgzzxf0cJEopV-2Bpnu-2BCkzAuszIQahb-2BDUZm6ZyVt8X7gauQtfFzFlMif6k8cZvjoknFymDDbZtsB9FqRl0smDG4cCOSLdec-3D>, https://ablink.sugerencias.coches.net/uni/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IPzcpxZZ9aQMcndqVueLw3sDtOCYFrJSRSkQTzQlxkyXduBgLVWEKd7MYBJa3xqf8BJghXclZNBbZNULKF8dYxWUaB0DqCCv-2BCPs5lxRej9b04LJ_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LHIZnc6W4bAY3Jv2e-2BUUdxrNOKYvnwIwpchD6ILeI3P08K3F13xF6LRgn7zzKWL3RVsxbARdvt2BLGrIHwdHxuf-2FG3dcLWBakq2tVstGh1q9vR3z3yf9sFXOhqcQoAaD78-3D>, https://ablink.sugerencias.coches.net/uni/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IMcjAiJLRNIMPpKtFK0K90lSNz2GEDjdopnrrjvDp3S2JuqMi9lvW1Ib25mx921mvdq99bFNyfkF17bMMEKeDgzi8xdnfgn1qCjfbTRlbqZVh9kw5n3JQAyUN5jhuHwetdQ21SqF-2FLdLyfpN3bLUwV9LMmTCCbTYJvWZNRb0uG9-2FWrEp_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LG50oMXuPk5p3UF6RB5ExGfe0JQvFJqP36ARfXDsmguDpEZ3CwoWmi6DR7CBBlcJ2pyK5C2XYO87i3l9sCj-2FUTl938Nid6IpbG7X7m4km-2FmaBtKDB5phg0Oi-2FIvGbS0jGQ-3D>, https://ablink.sugerencias.coches.net/uni/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IMcjAiJLRNIMPpKtFK0K90lSNz2GEDjdopnrrjvDp3S2JuqMi9lvW1Ib25mx921mvdq99bFNyfkF17bMMEKeDgzi8xdnfgn1qCjfbTRlbqZVh9kw5n3JQAyUN5jhuHwetRLqaAuD2SyzJCfRDr6Bf-2B7tKi81rfXlwyfntDWU1hkJNrbc_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LEp2dWhURGu-2FVpwCI4yd2y2FhZ4J4A6ZZeCDRMiUovjDC7Nkwh3K4aSFN4KiRHRbwEJUsf3Lf-2F3977fuHEGOfE24ynDZgIGMoX6W39gu-2B7tGM3EY3-2FJBVZxa4miOMrOlAM-3D>, https://ablink.sugerencias.coches.net/uni/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IPzcpxZZ9aQMcndqVueLw3sDtOCYFrJSRSkQTzQlxkyXpwge0bbD0auwy-2BLroxuvj8qabVjCIug136Shufr97JsVyzAZXy3GjRr4RV-2FkY2Lo-9lD_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LFLOOPA8Noa5B2lrQunQVy9KeLzGTOhTKeiSgVBeeiN0ZUVHJoucTUewh5-2F0t79kzii97vaVYhEvDjyXwXZelG0BzWhDe8GQieGWqfO9MaI13Ok6jlHzonznzpew-2B7-2BMkk-3D>, https://ablink.sugerencias.coches.net/uni/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IGrmx5mDSotSET24dW-2FhNsmRCwDM0S1MfW8TBKclxoZqM7Ujopq97k32lDKZii5HyI8zq9MZud5-2FM8HnrN-2F4GkYkHus92PvWQZ54KpiBp7laYnaRqKiEB2Bp8Ci8KEavNg-3D-3Dh1RL_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LGmqYZng9cj5qcfs4W-2FSd6MSraEzCYpPDiUsdGR1Rt2TY-2BjJn-2FW6dJjkzoM2x6y0FZG96f3yMRnYjGuV0JR4-2FvB-2FZJKwZOvi1fQPHAQIPB7HXmlArEedvUVPbiKB5ZqPs8-3D>, https://ablink.sugerencias.coches.net/uni/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0ICEyu8NU1Om2hxjN5nCG0qWzZF2abQBVGTt2kHTCojs8EqTXfjePddUSbh93E7X-2BurVlLNmNL0ol-2BKWWYwr3NdP7oSYAoJ5P1itEG-2BFJ4f3OAsiS_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LGW6B6XTs0vTTUrSgYNZzrOr2sD-2FKCATvRKl8nbpg7-2F955cYwgc-2Bedxjc208AuBVYNwNb9bIMK6FZuSG2K6L2QMh4QDACngBzU-2FozxxMXc0Zf9jFRoBaKTVK8UY8TbjCIA-3D>, https://ablink.sugerencias.coches.net/uni/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IMcjAiJLRNIMPpKtFK0K90n1XtpHN0a3kiInqLRmzVCivmakBYTZtSf4YzzhifK5T-2F6J0Q-2BWtUdk4crDnrOmURAlMomAWZjZrIOjcoY-2FyeAH5LV5hnXMmGLAyfmSuP5K8g-3D-3DQ1XP_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LFvyGpHDwx7YmroUsSVtyq9XsolYkdcVTreM3APIs2TkbrwQqsd4xzZu-2BH-2BV7-2By6ah-2FVP5b4xyixzVghZ-2BqDETkQ5DvYwPyc-2BGFNkDu6EKBBMf9dLx2D5X461BLA2PFSXY-3D>, https://ablink.sugerencias.coches.net/uni/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IHvAAwULO4prAyo9xk3sauVDiBUGrladBeUQdzhj6dpZjDpPs35e7kq0sflKrS08Tw-2B5BHWNKkxWGVky-2FoSyFuN5ntuiYKPTh2fFPgmgwxG1h1mkQBiJiibf1Ev7BIvMzw-3D-3Dtvm__RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LEVcvLzh-2FkYpZaNvQzs9ugbQ1Y6dVHY04pNsEKSzt4kyXWIdWKQ3mrPJS3gVlvgRXh0h2bs9rW9LcipNuroPU9tfbprKdCjzuGc64LF4EP4IqhY7uOffy7Y7cAiOZa8s4E-3D>, https://ablink.sugerencias.coches.net/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IAlOVGjgHHvCbs26RZE9rx0CPIiIkbSdaj-2B1ps2VOxFyVjrbj3-2BQZRsBANyvZx806phMujMMRxdehLFbjDe-2FzfiN2sWWOdLpuJ9cYyGnZpAxKDzU_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LFIbwjJuxM6QVMiy6-2BWbd4mrTOC-2Bt65aNvr-2Bqn1lQlhlku8H87JOtKbE3YVrKVT4YbJCFn62J-2F0rZEV5KQxquUS6PDL0ALurpkMt6NNkZ-2F-2BQRYRTqt8GU1sBOKLhHSC69k-3D>, https://ablink.sugerencias.coches.net/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IEPxz9KhaBnhFYKGrTWrzmwO0WBBuuxqxGzvyUwEdT-2BMO-2FHgHUf-2B1GkWIMncxyv-2Bez79EiNvMT5kln5CeIlu2GI-3DaORQ_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LHseUAfGaHc-2BkknpAZJBEL8VNny33WAPEc6LnC2JGqsULaCH7rX8azSqO-2ByLaXT0p7BUS2nvD2YTOuO6Tuu4tCSLGCjuFXuRLUOTaIYRZBYkoBocc5GSVbRtzd4A4P9ywY-3D>, https://ablink.sugerencias.coches.net/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IMyiHvOS0nE6bLvkuOWstflc9qtfPGdsl5f96bASMEF2Ae7dRQQe00Ss93u34uVpOw-3D-3DJFZb_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LErPKPgXKPREZxWxstDmqVhB7ZVPCSOP31WHnZ4202u1FlPXin5L1bGmVRJJWdFAI4itsNBm8dOvOeykrznMimJ2vv6tO5ku4yDrnBr2TWEZputBDXLxWWNzzPCvlZM3Rs-3D>, https://ablink.sugerencias.coches.net/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IHkcThaHLedW-2BOHHG11rgesyDthNHEvyx0FePMX3-2FuttYg-2FnbKyRHzEBSTJilTip3A-3D-3DiYam_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LGJkxCiTrBqIYxIN4Qomip6-2BII5zvppJo4j01-2BXhr6mAeZMOxtOzfo1p-2FJq4UVhVUl6mOUi7kEZ-2BIbj1WtG4ZZwjC7SNTqT0OMfqSuA3B0wegLbI7dWzCy-2BAKWyfc7md54-3D>, https://ablink.sugerencias.coches.net/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IPly-2Fuj48Eft97hlvw-2FY-2F2rAbabOMEvWNwIYfd-2BqPZhbAHl0xug7z3I28KJGz78Gl8pYlfL7n74ToNUD0qb7OH0-3DL_B5_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LHmMc7bXPvTxr2-2BY6vygifmx-2Fv9qQBNuFzDwGnZVB7MZOy-2FhLOSFaIIY7n3vlP1Ubh5Uy4pZho7lnfwDuXj3lwHbCN3mDe76-2FW9WZx5vp6PskAk79dvyfKFyhRCFBR6O48-3D>, https://ablink.sugerencias.coches.net/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IOjakIiCnOiHxHi-2FOgY4j30kQtEj5K6lh7piObc0FZEY-2BBDlTWnotGeWdx9EHd8KBQ-3D-3DZf2d_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LHN-2FHtoJQwsjzoh8mmVMXBKM8jr2tq-2F4ay-2F-2FRus4vO7pLpDRWnMSIn7Zk-2BKE8hYxmMS6U2nvZ5aXQ9VsT0Eou0qcy5n7XrvWrAgur8PLwR3iurzVUiYbEWj1a-2BoynfNhrs-3D>, https://ablink.sugerencias.coches.net/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IA6HsgEVWN1cMGhvE-2Fa74bZHZbdI-2BcRipae-2FkHDM7M62YXD0XeSeZTCQmJzBG3krHw-3D-3DXhbL_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LEIA25cT58r-2BYOWtVBGAB15VO0-2B5HToXaeDmc9FQt3DdyePEVr9knsWyfA6lah-2FcQddtduxw7J2WE-2B6tROraQAh2ahX-2FQWf-2FFtkzTizaVDHksNQstXlBtgc2J-2FbRdSNFOA-3D>, https://ablink.sugerencias.coches.net/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IOdEAFiJqJgyUA7IT8paKVNyNmMT-2B560RqiANsx0NJzwleDvGB0NkCKbXIX9wHP6EA-3D-3DfU8G_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LGGEBGQV3h1Z80WKugckDRQl6pmNT3E8r4Q5yk9nUwqtCBXIb0o1oAcSgECkH-2BvK8HmOlr-2Fd-2FMdGpg8maPwChRyKrVbt4J4EPKhZc-2FH9BQMO3XdvidU48Ix2GJsyvg1Scw-3D>, https://ablink.sugerencias.coches.net/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0INK1Z5tZkHAq3qzyld73iL5AtJJMavJZBcoPjj0aXLOxsBcP8DhvzcLWYtmy0c8oyA-3D-3DQWZ0_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LHKtQy5sDpv9kT4EifOQzIjMWORKncxOmG3yUdNlBAOoXnkCbvuf3-2Bdsa-2Fp-2Fw4FTiGmDeeruSaHCLx-2BXv8aM-2BMUDqpL8WmQxRgM51Iivc-2FNZ1Z9gJx2VZozDLsEFM6-2FjBo-3D>, https://ablink.sugerencias.coches.net/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IDfIQnKFhxM5iU5FtFROeeOXIwqVy6G4WfHW6BHefeiPWHZnLGSBE9Nn-2FLCIhVddnQ-3D-3Dc5ap_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LEIV-2F961z7ud-2FA8pPSPvsLbFGh7wB-2BTQ1oo937ElIYPk1IL9-2FeFac4lRQRIGMSxcFPp7V-2BY3wIvVrHlnrGKhM6gMw-2FsWTlMZDsKFrGgiH0Ow-2FJI-2BErimwKMkCmn8dwc2rY-3D>, https://ablink.sugerencias.coches.net/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IMJw56x5B4vu4c6m4S1TvEd3gtI5WattSZ8LMi6NoSrSJri9ynUAz4RrN93-2BCQF2-2Fw-3D-3D10NC_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LGeOGF0ANra3b-2Fw4RPZeTz8Hk-2BYzkRWMNWXYbG5lkD-2BUSKMUypKrobS9Of2nj4i-2BaX4GSzaZSqH-2FygHVx67EMKlTY6DX-2FsgAqSGGXpdaotXSOUmc3LG6c3r-2FlbYJabZk-2F0-3D>, https://ablink.sugerencias.coches.net/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0ILT-2B2iLP9uaI0klTvI4hsIiLN8-2FOT3jgJU4a51Uhm-2BiNWutrS8oZ7QQyaidNCyoE3A-3D-3DuvYz_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LEcpl9BArW-2FJHlQ9iNPoJIK-2B7QEZJmbM0wlDgaf00cVTSGrPN1-2Bf03-2FlctiOdC-2FqnAGrKggYBiCvCOa1dHmrQVMvECmswCdeNw9PD8IuPHLzEDFNsultkkrc-2B3OMpjN51w-3D>, https://ablink.sugerencias.coches.net/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IJixySEtkkpvsmcxA7y4PXuTkYTzcoxDqNVF6C8en7OvOnIQvsaFZrz2TmO-2F-2B6TlSw-3D-3Dc4PJ_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LFqxB60bcCVZCYliA3bYAjCaAJ2SVp4NmKWQ8JfYF7Eq92DHInVUlvINbdK4xBqi7hWlPOnMeC58sZ-2BKSbfiHvgMt6XeXAvxpfIRZJOazFpygO28HSRe4J-2FFPDSeBjHZn0-3D>, https://ablink.sugerencias.coches.net/ls/click?upn=u001.Vz9LYHo-2FuKGMAVqtA-2Fb0IDLv2HwOOwJIF8mxwOVbVxt5d0dGZCJBIxZvLaOCAUKp3M8cBNhKnx6Na4RJFrQxOG-2F6HTPH3nMrU-2BHzBJeUlMgScXuJPacOrWhcmlTWp-2FtPPowNsyC-2FgWAMc5Mq-2B7edMwktq-2FSIi3sBL0SqDWObeHXbbLt1EmEjsep6h2YHJemg1XXg-2FHnHOzcUZqQ08j2Yztmw2soGFP8aTiYqqCxMToiogv0NyhQzUwZl60Vkw-2F3gNOGT_RObiGpXXNrbPhuSzmBx46tk0K8GrSRymgRf2oyDynaAZstWTaIBK89q3L3rg4WaVTKKAlz-2Bn858A-2BKkOx-2Bmogt9078aKZ1uudbqg4peTQ81znWTO8LkkVJXX4WfFlUBFfRZIl3QZOZcCVF2S-2FqGQS7XUUtwAv-2FeJh85hsIWWl8uB-2Fbhah-2Fj491z57oS8HxNb9jYNSzzrQdzH19pLTcUi6kpMhBzlIIPm15Ytfv6hWPxMenuAhjfKaq9Nnw1gtgRgZreYYTKnxApWCkD0fBdpu47FMMHFuylBA1eDvEb5EsR0GfWsUpo2sn4DUMSHC5bXukFNw8UMLLNNSLTFYmwYdvETUy4dv-2BoV8MG5cAddYSopOpeLTeCucL-2Fi8opjF2fOo2NAqSXEZrohcifLJ2M2Z6yHop4dLdKBmDz5ugUnyoVfyM8HSVu0MYs-2FUseowqpv-2F-2BkxQOWVJr4rssHy0iA52vviLGxV3-2BEbiQvsz3Gk1h5u5gK0L6Mgm7dGaoGpOachljOXn0dRo5vcg41FYoN2RAzwIheP78vB9z531Yik0LEanpKcIgRAJtLGbhMHE35p9GF5VnZPX4MqomUlRjZQu-2BserYSKDVsZ80Ew88LLJL3mV9Q2aFx5BI6OHKXkbN6NCH98o0pbSPrU16W3SEnQfVYlk0wzg2a-2F1Mj-2FFdOeNi8-3D>
+2025-05-10 21:06:32,813 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: coches.net <comunicacion@sugerencias.coches.net>
+Date: mié, 7 may 2025 a las 19:17
+Subject: 🚗 SUV baratos en 2025
+To: <alpalencia01@gmail.com>
+
+
+Modelos desde 15.000 €
+
+Pre Header - Coches.net
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌...
+2025-05-10 21:06:32,813 - 🛡️ No se detectó phishing. Puntuación: 20
+2025-05-10 21:06:32,813 - 📋 Detalles de la evaluación:
+2025-05-10 21:06:32,813 -    - Frases sospechosas: haz clic aquí
+2025-05-10 21:06:33,143 - 📩 Correo mantenido como no leído
+2025-05-10 21:06:33,144 - ============================================================
+2025-05-10 21:06:33,453 - ⚠️ Error al procesar correo b'16' (intento 1): 'int' object has no attribute 'decode'
+2025-05-10 21:06:36,112 - 
+📌 Asunto: 
+2025-05-10 21:06:36,417 - 📩 Etiquetas actuales del correo: [b'16 (X-GM-LABELS ())']
+2025-05-10 21:06:36,417 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:06:36,420 - 🔗 Enlaces extraídos: https://libreriacentro.com/mipedido, https://libreriacentro.com/mipedido
+2025-05-10 21:06:36,623 - 📝 Cuerpo del mensaje (truncado):
+Asunto: Gracias por tu compra
+
+Cuerpo:
+Hola Juan,
+
+Gracias por tu pedido en Librería Centro. Tu pedido #12498 ha sido
+confirmado y será enviado en los próximos 2 días hábiles.
+
+Puedes revisar el estado aquí:
+👉 https://libreriacentro.com/mipedido
+
+Gracias por tu preferencia.
+Asunto: Graci...
+2025-05-10 21:06:36,623 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:06:36,623 - 📋 Detalles de la evaluación:
+2025-05-10 21:06:36,623 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:06:37,032 - 📩 Correo mantenido como no leído
+2025-05-10 21:06:37,032 - ============================================================
+2025-05-10 21:06:37,443 - ⚠️ Error al procesar correo b'17' (intento 1): 'int' object has no attribute 'decode'
+2025-05-10 21:06:40,113 - 
+📌 Asunto: 
+2025-05-10 21:06:40,410 - 📩 Etiquetas actuales del correo: [b'17 (X-GM-LABELS ())']
+2025-05-10 21:06:40,411 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:06:40,412 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:06:40,413 - 📝 Cuerpo del mensaje (truncado):
+Asunto: Nuevo horario de oficina a partir del lunes
+
+Cuerpo:
+Estimado equipo,
+
+Les informamos que a partir del lunes 15, el horario de atención será de
+8:00 a.m. a 5:00 p.m.
+
+Cualquier duda, contacten a Recursos Humanos.
+
+Saludos cordiales,
+Administración
+Asunto: Nuevo horario de oficina...
+2025-05-10 21:06:40,413 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:06:40,413 - 📋 Detalles de la evaluación:
+2025-05-10 21:06:40,413 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:06:40,670 - 📩 Correo mantenido como no leído
+2025-05-10 21:06:40,670 - ============================================================
+2025-05-10 21:06:41,435 - ⚠️ Error al procesar correo b'18' (intento 1): 'int' object has no attribute 'decode'
+2025-05-10 21:06:43,790 - 
+📌 Asunto: pappapa
+2025-05-10 21:06:43,994 - 📩 Etiquetas actuales del correo: [b'18 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:06:43,994 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:06:43,995 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:06:43,996 - 📝 Cuerpo del mensaje (truncado):
+ààà
+ààà...
+2025-05-10 21:06:43,996 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:06:43,996 - 📋 Detalles de la evaluación:
+2025-05-10 21:06:43,996 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:06:44,302 - 📩 Correo mantenido como no leído
+2025-05-10 21:06:44,303 - ============================================================
+2025-05-10 21:06:44,813 - ⚠️ Error al procesar correo b'19' (intento 1): 'int' object has no attribute 'decode'
+2025-05-10 21:06:47,271 - ⚠️ Error al procesar correo b'19' (intento 2): 'int' object has no attribute 'decode'
+2025-05-10 21:06:49,606 - 
+📌 Asunto: a
+2025-05-10 21:06:50,368 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:06:50,368 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:06:50,369 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:06:50,369 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-10 21:06:50,369 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:06:50,369 - 📋 Detalles de la evaluación:
+2025-05-10 21:06:50,369 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:06:50,696 - 📩 Correo mantenido como no leído
+2025-05-10 21:06:50,696 - ============================================================
+2025-05-10 21:06:51,469 - ⚠️ Error al procesar correo b'20' (intento 1): 'int' object has no attribute 'decode'
+2025-05-10 21:06:54,135 - 
+📌 Asunto: 
+2025-05-10 21:06:54,443 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS (Phishing))']
+2025-05-10 21:06:54,443 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:06:54,445 - 🔗 Enlaces extraídos: https://security-paypal-alert.com/verify, https://security-paypal-alert.com/verify
+2025-05-10 21:06:54,645 - 📝 Cuerpo del mensaje (truncado):
+Asunto: Confirmación obligatoria de tu cuenta PayPal
+
+Cuerpo:
+Estimado usuario,
+
+Recientemente hemos notado una actividad inusual en tu cuenta. Por
+seguridad, tu cuenta ha sido limitada temporalmente. Para restaurar el
+acceso, sigue el siguiente enlace:
+
+👉 https://security-paypal-alert.com/...
+2025-05-10 21:06:54,645 - ⚠️ ¡POSIBLE PHISHING DETECTADO! Puntuación: 230
+2025-05-10 21:06:54,645 -    - Frases sospechosas: actividad inusual, restaurar el acceso, por seguridad
+2025-05-10 21:06:54,646 -    - Dominios en lista negra: security-paypal-alert.com
+2025-05-10 21:06:54,646 -    - Dominio sospechoso: security-paypal-alert.com
+2025-05-10 21:06:54,646 -    - Lenguaje urgente detectado
+2025-05-10 21:06:54,646 -    - Saludo genérico detectado
+2025-05-10 21:06:54,646 -    - Combinación de enlace y saludo genérico
+2025-05-10 21:06:55,071 - 📩 Correo copiado a la papelera: [Gmail]/Papelera
+2025-05-10 21:06:55,362 - 📩 Etiquetas '\Inbox', '\Important', '\Starred' eliminadas
+2025-05-10 21:06:55,772 - 📩 Correo etiquetado como 'Phishing'
+2025-05-10 21:06:56,078 - 📩 Etiquetas tras etiquetar: [b'20 (X-GM-LABELS (Phishing))']
+2025-05-10 21:07:39,013 - 📩 Sincronización forzada con el servidor
+2025-05-10 21:07:39,470 - 🗑️ Correos con etiqueta 'Phishing' en la papelera: 0
+2025-05-10 21:07:39,906 - 📩 Etiquetas finales del correo: [b'20 (X-GM-LABELS (Phishing))']
+2025-05-10 21:07:39,906 - ============================================================
+2025-05-10 21:07:40,524 - 
+📌 Asunto: Fwd: Hola
+2025-05-10 21:07:40,724 - 📩 Etiquetas actuales del correo: [b'21 (X-GM-LABELS ())']
+2025-05-10 21:07:40,725 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-10 21:07:40,730 - 🔗 Enlaces extraídos: https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#cl/311816_smd/87/367132/12237/1975/50118>, https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#un/311816_smd/87/367132/12237/1975/50118>
+2025-05-10 21:07:40,927 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: Lisa assistencia <mansinghtamattak46@gmail.com>
+Date: dom, 13 abr 2025 a las 19:01
+Subject: Re: Hola
+To: alpalencia01@gmail.com <alpalencia01@gmail.com>
+Cc: alpalencia01@gmail.com <alpalencia01@gmail.com>
+
+
+Decathlon🎁
+
+Tu opinión nos importa
+¡Opi...
+2025-05-10 21:07:40,928 - ⚠️ ¡POSIBLE PHISHING DETECTADO! Puntuación: 170
+2025-05-10 21:07:40,928 -    - Frases sospechosas: tu opinión nos importa, decathlon, gana, opinión nos importa
+2025-05-10 21:07:40,928 -    - Dominios en lista negra: insfou17776.emlnk.com
+2025-05-10 21:07:40,928 -    - Dominio sospechoso: insfou17776.emlnk.com
+2025-05-10 21:07:41,430 - 📩 Correo copiado a la papelera: [Gmail]/Papelera
+2025-05-10 21:07:41,852 - 📩 Etiquetas '\Inbox', '\Important', '\Starred' eliminadas
+2025-05-10 21:07:42,036 - 📩 Correo etiquetado como 'Phishing'
+2025-05-10 21:07:42,192 - 📩 Etiquetas tras etiquetar: [b'21 (X-GM-LABELS (Phishing))']
+2025-05-10 21:08:25,169 - 📩 Sincronización forzada con el servidor
+2025-05-10 21:08:25,575 - 🗑️ Correos con etiqueta 'Phishing' en la papelera: 0
+2025-05-10 21:08:25,985 - 📩 Etiquetas finales del correo: [b'21 (X-GM-LABELS (Phishing))']
+2025-05-10 21:08:25,986 - ============================================================
+2025-05-10 21:08:26,399 - 
+📌 Asunto: EJEMPLO
+2025-05-10 21:08:26,600 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:08:26,600 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:08:26,602 - 🔗 Enlaces extraídos: http://banco-seguro.com/restablecer), http://banco-seguro.com/restablecer
+2025-05-10 21:08:26,832 - 📝 Cuerpo del mensaje (truncado):
+Estimado cliente,
+
+Hemos detectado actividad sospechosa en su cuenta bancaria. Como medida de
+seguridad, hemos bloqueado su acceso hasta que confirme su identidad. Por
+favor, haga clic en el siguiente enlace para desbloquear su cuenta:
+
+[Restablecer mi cuenta](http://banco-seguro.com/restablec...
+2025-05-10 21:08:26,832 - ⚠️ ¡POSIBLE PHISHING DETECTADO! Puntuación: 70
+2025-05-10 21:08:26,833 -    - Frases sospechosas: estimado cliente
+2025-05-10 21:08:26,833 -    - Saludo genérico detectado
+2025-05-10 21:08:26,833 -    - Combinación de enlace y saludo genérico
+2025-05-10 21:08:27,094 - 📩 Correo copiado a la papelera: [Gmail]/Papelera
+2025-05-10 21:08:27,243 - 📩 Etiquetas '\Inbox', '\Important', '\Starred' eliminadas
+2025-05-10 21:08:27,431 - 📩 Correo etiquetado como 'Phishing'
+2025-05-10 21:08:27,727 - 📩 Etiquetas tras etiquetar: [b'22 (X-GM-LABELS (Phishing))']
+2025-05-10 21:09:10,846 - 📩 Sincronización forzada con el servidor
+2025-05-10 21:09:11,246 - 🗑️ Correos con etiqueta 'Phishing' en la papelera: 0
+2025-05-10 21:09:11,656 - 📩 Etiquetas finales del correo: [b'22 (X-GM-LABELS (Phishing))']
+2025-05-10 21:09:11,656 - ============================================================
+2025-05-10 21:09:12,102 - ⚠️ Error al obtener correo b'23': Datos no válidos
+2025-05-10 21:09:14,401 - ⚠️ Error al obtener correo b'23': Datos no válidos
+2025-05-10 21:09:16,776 - ⚠️ Error al obtener correo b'23': Datos no válidos
+2025-05-10 21:09:17,083 - ⚠️ Error al obtener correo b'24': Datos no válidos
+2025-05-10 21:09:19,372 - ⚠️ Error al obtener correo b'24': Datos no válidos
+2025-05-10 21:09:21,740 - ⚠️ Error al obtener correo b'24': Datos no válidos
+2025-05-10 21:09:22,103 - ⚠️ Error al obtener correo b'25': Datos no válidos
+2025-05-10 21:09:24,456 - ⚠️ Error al obtener correo b'25': Datos no válidos
+2025-05-10 21:09:26,915 - ⚠️ Error al obtener correo b'25': Datos no válidos
+2025-05-10 21:09:27,324 - ⚠️ Error al obtener correo b'26': Datos no válidos
+2025-05-10 21:09:29,945 - ⚠️ Error al obtener correo b'26': Datos no válidos
+2025-05-10 21:09:32,234 - ⚠️ Error al obtener correo b'26': Datos no válidos
+2025-05-10 21:09:32,650 - 🗑️ Correos en la papelera ([Gmail]/Papelera): 5
+2025-05-10 21:09:33,058 -    - Correo en papelera: Asunto='Fwd: Invitación N:KUWS351 - Mar 1 de abril de 2025', Remitente='=?UTF-8?B?w4FsdmFybyBTw6FuY2hlei1QYWxlbmNpYSBHw7NtZXo=?= <alpalencia01@gmail.com>', Fecha='Sat, 10 May 2025 20:58:18 +0200', Etiquetas=1 (X-GM-LABELS ())
+2025-05-10 21:09:33,467 -    - Correo en papelera: Asunto='Fwd: Hola', Remitente='=?UTF-8?B?w4FsdmFybyBTw6FuY2hlei1QYWxlbmNpYSBHw7NtZXo=?= <alpalencia01@gmail.com>', Fecha='Sat, 10 May 2025 20:09:26 +0200', Etiquetas=2 (X-GM-LABELS ())
+2025-05-10 21:09:33,877 -    - Correo en papelera: Asunto='', Remitente='=?UTF-8?Q?Pablo_S=C3=A1nchez=2DPalencia?= <ppalencia01@gmail.com>', Fecha='Sat, 10 May 2025 18:56:12 +0200', Etiquetas=3 (X-GM-LABELS (Phishing))
+2025-05-10 21:09:34,287 -    - Correo en papelera: Asunto='Fwd: Hola', Remitente='=?UTF-8?B?w4FsdmFybyBTw6FuY2hlei1QYWxlbmNpYSBHw7NtZXo=?= <alpalencia01@gmail.com>', Fecha='Sat, 10 May 2025 20:58:31 +0200', Etiquetas=4 (X-GM-LABELS ())
+2025-05-10 21:09:34,639 -    - Correo en papelera: Asunto='EJEMPLO', Remitente='=?UTF-8?Q?Pablo_S=C3=A1nchez=2DPalencia?= <ppalencia01@gmail.com>', Fecha='Sat, 10 May 2025 20:57:09 +0200', Etiquetas=5 (X-GM-LABELS ())
+2025-05-10 21:09:50,056 - 🗑️ Confirmación: Correos con etiqueta 'Phishing' en la papelera: 0
+2025-05-10 21:15:26,210 - 🚀 El script ha comenzado...
+2025-05-10 21:15:26,210 - 🔗 Intentando conectar con Gmail...
+2025-05-10 21:15:27,388 - ✅ Conexión exitosa
+2025-05-10 21:15:27,572 - 🗑️ Usando carpeta de papelera: [Gmail]/Papelera
+2025-05-10 21:15:27,572 - 📬 Nota: Si un correo esperado no aparece, verifica si está en la Papelera, Spam, o marcado como leído.
+2025-05-10 21:15:27,916 - 🗑️ Correos con etiqueta 'Phishing' en la papelera antes de procesar: 0
+2025-05-10 21:15:28,431 - 📧 Total de correos no leídos encontrados: 4
+2025-05-10 21:15:28,432 - 📧 Procesando 4 correos...
+2025-05-10 21:15:28,702 - 
+📌 Asunto: a
+2025-05-10 21:15:28,866 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:15:28,867 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:15:28,878 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:15:28,878 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-10 21:15:28,878 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:15:28,878 - 📋 Detalles de la evaluación:
+2025-05-10 21:15:28,879 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:15:29,153 - 📩 Correo mantenido como no leído
+2025-05-10 21:15:29,154 - ============================================================
+2025-05-10 21:15:29,417 - 
+📌 Asunto: Duda
+2025-05-10 21:15:29,593 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-10 21:15:29,593 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:15:29,594 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-10 21:15:29,757 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-10 21:15:29,757 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:15:29,757 - 📋 Detalles de la evaluación:
+2025-05-10 21:15:29,757 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:15:30,031 - 📩 Correo mantenido como no leído
+2025-05-10 21:15:30,031 - ============================================================
+2025-05-10 21:15:30,235 - 
+📌 Asunto: URGENE
+2025-05-10 21:15:30,405 - 📩 Etiquetas actuales del correo: [b'21 (X-GM-LABELS ())']
+2025-05-10 21:15:30,406 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-10 21:15:30,406 - 🔗 Enlaces extraídos: http://apple-id.com/verificar)
+2025-05-10 21:15:30,553 - 📝 Cuerpo del mensaje (truncado):
+
+Hemos detectado un acceso no autorizado en tu cuenta de Apple ID. Para 
+proteger tu información, necesitamos que verifiques tu cuenta 
+inmediatamente.
+
+Haz clic en el siguiente enlace para realizar la verificación:
+
+[Verificar mi cuenta](http://apple-id.com/verificar)
+
+Gracias por tu colab...
+2025-05-10 21:15:30,553 - 🛡️ No se detectó phishing. Puntuación: 30
+2025-05-10 21:15:30,553 - 📋 Detalles de la evaluación:
+2025-05-10 21:15:30,553 -    - Lenguaje urgente detectado
+2025-05-10 21:15:30,760 - 📩 Correo mantenido como no leído
+2025-05-10 21:15:30,760 - ============================================================
+2025-05-10 21:15:30,959 - 
+📌 Asunto: 
+2025-05-10 21:15:31,156 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:15:31,157 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:15:31,159 - 🔗 Enlaces extraídos: http://apple-id.com/verificar), http://apple-id.com/verificar
+2025-05-10 21:15:31,309 - 📝 Cuerpo del mensaje (truncado):
+Hola [Nombre],
+
+Hemos detectado un acceso no autorizado en tu cuenta de Apple ID. Para
+proteger tu información, necesitamos que verifiques tu cuenta
+inmediatamente.
+
+Haz clic en el siguiente enlace para realizar la verificación:
+
+[Verificar mi cuenta](http://apple-id.com/verificar)
+
+Gracia...
+2025-05-10 21:15:31,310 - 🛡️ No se detectó phishing. Puntuación: 30
+2025-05-10 21:15:31,310 - 📋 Detalles de la evaluación:
+2025-05-10 21:15:31,310 -    - Lenguaje urgente detectado
+2025-05-10 21:15:31,618 - 📩 Correo mantenido como no leído
+2025-05-10 21:15:31,619 - ============================================================
+2025-05-10 21:15:32,030 - 🗑️ Correos en la papelera ([Gmail]/Papelera): 0
+2025-05-10 21:15:42,301 - 🗑️ Confirmación: Correos con etiqueta 'Phishing' en la papelera: 0
+2025-05-10 21:18:54,575 - 🚀 El script ha comenzado...
+2025-05-10 21:18:54,575 - 🔗 Intentando conectar con Gmail...
+2025-05-10 21:18:55,135 - ✅ Conexión exitosa
+2025-05-10 21:18:55,375 - 🗑️ Usando carpeta de papelera: [Gmail]/Papelera
+2025-05-10 21:18:55,375 - 📬 Nota: Si un correo esperado no aparece, verifica si está en la Papelera, Spam, o marcado como leído.
+2025-05-10 21:18:55,763 - 🗑️ Correos con etiqueta 'Phishing' en la papelera antes de procesar: 0
+2025-05-10 21:18:56,248 - 📧 Total de correos no leídos encontrados: 5
+2025-05-10 21:18:56,248 - 📧 Procesando 5 correos...
+2025-05-10 21:18:56,466 - 
+📌 Asunto: a
+2025-05-10 21:18:56,700 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:18:56,700 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:18:56,701 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:18:56,701 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-10 21:18:56,701 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:18:56,701 - 📋 Detalles de la evaluación:
+2025-05-10 21:18:56,701 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:18:56,969 - 📩 Correo mantenido como no leído
+2025-05-10 21:18:56,970 - ============================================================
+2025-05-10 21:18:57,203 - 
+📌 Asunto: Duda
+2025-05-10 21:18:57,484 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-10 21:18:57,484 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:18:57,484 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-10 21:18:57,681 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-10 21:18:57,681 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:18:57,681 - 📋 Detalles de la evaluación:
+2025-05-10 21:18:57,681 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:18:57,915 - 📩 Correo mantenido como no leído
+2025-05-10 21:18:57,915 - ============================================================
+2025-05-10 21:18:58,125 - 
+📌 Asunto: URGENE
+2025-05-10 21:18:58,269 - 📩 Etiquetas actuales del correo: [b'21 (X-GM-LABELS ())']
+2025-05-10 21:18:58,269 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-10 21:18:58,269 - 🔗 Enlaces extraídos: http://apple-id.com/verificar)
+2025-05-10 21:18:58,399 - 📝 Cuerpo del mensaje (truncado):
+
+Hemos detectado un acceso no autorizado en tu cuenta de Apple ID. Para 
+proteger tu información, necesitamos que verifiques tu cuenta 
+inmediatamente.
+
+Haz clic en el siguiente enlace para realizar la verificación:
+
+[Verificar mi cuenta](http://apple-id.com/verificar)
+
+Gracias por tu colab...
+2025-05-10 21:18:58,399 - ⚠️ ¡POSIBLE PHISHING DETECTADO! Puntuación: 120
+2025-05-10 21:18:58,399 -    - Dominios en lista negra: apple-id.com
+2025-05-10 21:18:58,399 -    - Dominio sospechoso que imita: apple-id.com (parece apple.com)
+2025-05-10 21:18:58,399 -    - Lenguaje urgente detectado
+2025-05-10 21:18:58,632 - 📩 Correo copiado a la papelera: [Gmail]/Papelera
+2025-05-10 21:18:58,854 - 📩 Etiquetas '\Inbox', '\Important', '\Starred' eliminadas
+2025-05-10 21:18:59,110 - 📩 Correo etiquetado como 'Phishing'
+2025-05-10 21:18:59,338 - 📩 Etiquetas tras etiquetar: [b'21 (X-GM-LABELS (Phishing))']
+2025-05-10 21:18:59,824 - 📩 Sincronización forzada con el servidor
+2025-05-10 21:19:00,282 - 🗑️ Correos con etiqueta 'Phishing' en la papelera: 0
+2025-05-10 21:19:00,478 - ============================================================
+2025-05-10 21:19:00,693 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:19:00,838 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:19:00,838 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:19:00,839 - 🔗 Enlaces extraídos: https://data.x.ai/xai-logo.png", https://accounts.x.ai/change-password">change, https://accounts.x.ai/mfa/devices">enable, https://accounts.x.ai/">account
+2025-05-10 21:19:00,963 - 📝 Cuerpo del mensaje (truncado):
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-- -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--<![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-...
+2025-05-10 21:19:00,963 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:19:00,963 - 📋 Detalles de la evaluación:
+2025-05-10 21:19:00,963 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:19:01,191 - 📩 Correo mantenido como no leído
+2025-05-10 21:19:01,191 - ============================================================
+2025-05-10 21:19:01,331 - ⚠️ Error al obtener correo b'23': Datos no válidos
+2025-05-10 21:19:03,572 - ⚠️ Error al obtener correo b'23': Datos no válidos
+2025-05-10 21:19:03,936 - 🗑️ Correos en la papelera ([Gmail]/Papelera): 1
+2025-05-10 21:19:04,393 -    - Correo en papelera: Asunto='URGENE', Remitente='pablopalencia@correo.ugr.es', Fecha='Sat, 10 May 2025 21:00:02 +0200', Etiquetas=1 (X-GM-LABELS ())
+2025-05-10 21:19:04,587 - 🗑️ Confirmación: Correos con etiqueta 'Phishing' en la papelera: 0
+2025-05-10 21:23:43,469 - 🚀 El script ha comenzado...
+2025-05-10 21:23:43,469 - 🔗 Intentando conectar con Gmail...
+2025-05-10 21:23:44,527 - ✅ Conexión exitosa
+2025-05-10 21:23:44,527 - 📬 Nota: Si un correo esperado no aparece, verifica si está en Spam o marcado como leído.
+2025-05-10 21:23:45,142 - 📧 Total de correos no leídos encontrados: 4
+2025-05-10 21:23:45,142 - 📧 Procesando 4 correos...
+2025-05-10 21:23:45,352 - 
+📌 Asunto: a
+2025-05-10 21:23:45,516 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:23:45,516 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:23:45,518 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:23:45,519 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-10 21:23:45,519 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:23:45,519 - 📋 Detalles de la evaluación:
+2025-05-10 21:23:45,519 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:23:45,773 - 📩 Correo mantenido como no leído
+2025-05-10 21:23:45,773 - ============================================================
+2025-05-10 21:23:45,970 - 
+📌 Asunto: Duda
+2025-05-10 21:23:46,163 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-10 21:23:46,164 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:23:46,165 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-10 21:23:46,314 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-10 21:23:46,314 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:23:46,315 - 📋 Detalles de la evaluación:
+2025-05-10 21:23:46,315 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:23:46,575 - 📩 Correo mantenido como no leído
+2025-05-10 21:23:46,576 - ============================================================
+2025-05-10 21:23:46,895 - 
+📌 Asunto: 
+2025-05-10 21:23:47,106 - 📩 Etiquetas actuales del correo: [b'21 (X-GM-LABELS ())']
+2025-05-10 21:23:47,107 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:23:47,109 - 🔗 Enlaces extraídos: http://apple-id.com/verificar), http://apple-id.com/verificar
+2025-05-10 21:23:47,255 - 📝 Cuerpo del mensaje (truncado):
+Hola [Nombre],
+
+Hemos detectado un acceso no autorizado en tu cuenta de Apple ID. Para
+proteger tu información, necesitamos que verifiques tu cuenta
+inmediatamente.
+
+Haz clic en el siguiente enlace para realizar la verificación:
+
+[Verificar mi cuenta](http://apple-id.com/verificar)
+
+Gracia...
+2025-05-10 21:23:47,255 - ⚠️ ¡POSIBLE PHISHING DETECTADO! Puntuación: 120
+2025-05-10 21:23:47,255 -    - Dominios en lista negra: apple-id.com
+2025-05-10 21:23:47,255 -    - Dominio sospechoso que imita: apple-id.com (parece apple.com)
+2025-05-10 21:23:47,256 -    - Lenguaje urgente detectado
+2025-05-10 21:23:47,768 - 📩 Correo etiquetado como 'Posible Phishing'
+2025-05-10 21:23:48,378 - 📩 Etiquetas tras etiquetar: [b'21 (X-GM-LABELS (Phishing Posible))']
+2025-05-10 21:23:48,812 - 📩 Sincronización forzada con el servidor
+2025-05-10 21:23:48,813 - ============================================================
+2025-05-10 21:23:49,082 - ⚠️ Error al procesar correo b'22' (intento 1): 'int' object has no attribute 'decode'
+2025-05-10 21:23:51,388 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:23:51,695 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:23:51,695 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:23:51,697 - 🔗 Enlaces extraídos: https://data.x.ai/xai-logo.png", https://accounts.x.ai/change-password">change, https://accounts.x.ai/mfa/devices">enable, https://accounts.x.ai/">account
+2025-05-10 21:23:51,850 - 📝 Cuerpo del mensaje (truncado):
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-- -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--<![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-...
+2025-05-10 21:23:51,850 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:23:51,851 - 📋 Detalles de la evaluación:
+2025-05-10 21:23:51,851 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:23:52,309 - 📩 Correo mantenido como no leído
+2025-05-10 21:23:52,310 - ============================================================
+2025-05-10 21:26:52,280 - 🚀 El script ha comenzado...
+2025-05-10 21:26:52,280 - 🔗 Intentando conectar con Gmail...
+2025-05-10 21:26:53,455 - ✅ Conexión exitosa
+2025-05-10 21:26:53,456 - 📬 Nota: Si un correo esperado no aparece, verifica si está en Spam o marcado como leído.
+2025-05-10 21:26:54,094 - 📧 Total de correos no leídos encontrados: 4
+2025-05-10 21:26:54,094 - 📧 Procesando 4 correos...
+2025-05-10 21:26:54,391 - 
+📌 Asunto: Fwd: SQ 2024-25 +025
+2025-05-10 21:26:54,615 - 📩 Etiquetas actuales del correo: [b'14 (X-GM-LABELS ())']
+2025-05-10 21:26:54,615 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-10 21:26:54,632 - 🔗 Enlaces extraídos: https://click.convertkit-mail2.com/8kuelwvxx7uoh0ogq84ik/reh8hoh03oqmd3c2/aHR0cDovL2g0NGg1Z2g0ZzVmZ2h0dGouYWxldnNlc2xpLm5ldA==#UStFb1paOVhuQVR6Y0RYcjYyRnE1MnZ6MGlrQzUwU2U5MTE3U0R1ZzRLTnlyT0I1TlM4MGxtWUZrZzB4QmRBM0xuZkRmdko0bFNXL0hxTkUzRUNwMmY1M29uYndvS2llaFcxSWdIQnp0TG89>, https://click.convertkit-mail2.com/8kuelwvxx7uoh0ogq84ik/reh8hoh03oqmd3c2/aHR0cDovL2g0NGg1Z2g0ZzVmZ2h0dGouYWxldnNlc2xpLm5ldA==#UStFb1paOVhuQVR6Y0RYcjYyRnE1MnZ6MGlrQzUwU2U5MTE3U0R1ZzRLTnlyT0I1TlM4MGxtWUZrZzB4QmRBM0xuZkRmdko0bFNXL0hxTkUzRUNwMmY1M29uYndvS2llaFcxSWdIQnp0TG89>, https://click.convertkit-mail2.com/8kuelwvxx7uoh0ogq84ik/reh8hoh03oqmd3c2/aHR0cDovL2g0NGg1Z2g0ZzVmZ2h0dGouYWxldnNlc2xpLm5ldA==#UStFb1paOVhuQVR6Y0RYcjYyRnE1MnZ6MGlrQzUwU2U5MTE3U0R1ZzRLTnlyT0I1TlM4MGxtWUZrZzB4QmRBM0xuZkRmdko0bFNXL0hxTkUzRUNwMmY1M29uYndvS2llaFcxSWdIQnp0TG89>, https://click.convertkit-mail2.com/8kuelwvxx7uoh0ogq84ik/reh8hoh03oqmd3c2/aHR0cDovL2g0NGg1Z2g0ZzVmZ2h0dGouYWxldnNlc2xpLm5ldA==#TUlOVlUwOTZSeVlxanliUzZ2WmZiQ1d3MDQyaWN2eTVvbFZZSVo3OFVYYVMzSFZCbnhzK0srZWVFWnRjd0FUUVIvaUJGdXduc0Ird21OVkpxcHZ4ejJTRmhXemw0MW5PRE9IYkZBUUNubmc9>
+2025-05-10 21:26:54,818 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: Departamento Lidl <gertrudecrawfor84@gmail.com>
+Date: jue, 10 abr 2025 a las 15:57
+Subject: Re: SQ 2024-25 +025
+To: <alpalencia01@gmail.com>
+Cc: gertrudecrawfor84@gmail.com <gertrudecrawfor84@gmail.com>
+
+
+958959_smd
+
+L l D L
+
+RESPONDE Y GANA!
+...
+2025-05-10 21:26:54,819 - ⚠️ ¡POSIBLE PHISHING DETECTADO! Puntuación: 150
+2025-05-10 21:26:54,819 -    - Frases sospechosas: responde y gana, lidl, departamento lidl
+2025-05-10 21:26:54,819 -    - Dominio sospechoso: click.convertkit-mail2.com
+2025-05-10 21:26:54,819 -    - Saludo genérico detectado
+2025-05-10 21:26:54,819 -    - Combinación de enlace y saludo genérico
+2025-05-10 21:26:55,094 - 📩 Correo etiquetado como 'posible-phishing'
+2025-05-10 21:26:55,299 - 📩 Etiquetas tras etiquetar: [b'14 (X-GM-LABELS (posible-phishing))']
+2025-05-10 21:26:55,826 - 📩 Sincronización forzada con el servidor
+2025-05-10 21:26:55,827 - ============================================================
+2025-05-10 21:26:56,121 - ⚠️ Datos del correo b'19' no son bytes: <class 'int'>
+2025-05-10 21:26:58,555 - 
+📌 Asunto: a
+2025-05-10 21:26:58,841 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:26:58,842 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:26:58,843 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:26:58,843 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-10 21:26:58,843 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:26:58,844 - 📋 Detalles de la evaluación:
+2025-05-10 21:26:58,844 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:26:59,062 - 📩 Correo mantenido como no leído
+2025-05-10 21:26:59,062 - ============================================================
+2025-05-10 21:26:59,299 - 
+📌 Asunto: Duda
+2025-05-10 21:26:59,491 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-10 21:26:59,491 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:26:59,493 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-10 21:26:59,674 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-10 21:26:59,674 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:26:59,674 - 📋 Detalles de la evaluación:
+2025-05-10 21:26:59,675 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:26:59,907 - 📩 Correo mantenido como no leído
+2025-05-10 21:26:59,907 - ============================================================
+2025-05-10 21:27:00,219 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:27:00,505 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:27:00,505 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:27:00,507 - 🔗 Enlaces extraídos: https://data.x.ai/xai-logo.png", https://accounts.x.ai/change-password">change, https://accounts.x.ai/mfa/devices">enable, https://accounts.x.ai/">account
+2025-05-10 21:27:00,644 - 📝 Cuerpo del mensaje (truncado):
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-- -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--<![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-...
+2025-05-10 21:27:00,644 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:27:00,644 - 📋 Detalles de la evaluación:
+2025-05-10 21:27:00,645 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:27:00,854 - 📩 Correo mantenido como no leído
+2025-05-10 21:27:00,855 - ============================================================
+2025-05-10 21:30:34,048 - 🚀 El script ha comenzado...
+2025-05-10 21:30:34,048 - 🔗 Intentando conectar con Gmail...
+2025-05-10 21:30:35,365 - ✅ Conexión exitosa
+2025-05-10 21:30:35,365 - 📬 Nota: Si un correo esperado no aparece, verifica si está en Spam o marcado como leído.
+2025-05-10 21:30:35,977 - 📧 Total de correos no leídos encontrados: 6
+2025-05-10 21:30:35,977 - 📧 Procesando 6 correos...
+2025-05-10 21:30:36,261 - 
+📌 Asunto: a
+2025-05-10 21:30:36,463 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:30:36,463 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:30:36,465 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:30:36,466 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-10 21:30:36,466 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:30:36,466 - 📋 Detalles de la evaluación:
+2025-05-10 21:30:36,466 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:30:37,112 - 📩 Correo mantenido como no leído
+2025-05-10 21:30:37,112 - ============================================================
+2025-05-10 21:30:37,974 - 
+📌 Asunto: Duda
+2025-05-10 21:30:38,188 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-10 21:30:38,188 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:30:38,189 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-10 21:30:38,342 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-10 21:30:38,342 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:30:38,342 - 📋 Detalles de la evaluación:
+2025-05-10 21:30:38,342 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:30:39,046 - 📩 Correo mantenido como no leído
+2025-05-10 21:30:39,046 - ============================================================
+2025-05-10 21:30:40,001 - 
+📌 Asunto: 
+2025-05-10 21:30:40,684 - 📩 Etiquetas actuales del correo: [b'21 (X-GM-LABELS ())']
+2025-05-10 21:30:40,685 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:30:40,686 - 🔗 Enlaces extraídos: http://apple-id.com/verificar), http://apple-id.com/verificar
+2025-05-10 21:30:40,839 - 📝 Cuerpo del mensaje (truncado):
+Hola [Nombre],
+
+Hemos detectado un acceso no autorizado en tu cuenta de Apple ID. Para
+proteger tu información, necesitamos que verifiques tu cuenta
+inmediatamente.
+
+Haz clic en el siguiente enlace para realizar la verificación:
+
+[Verificar mi cuenta](http://apple-id.com/verificar)
+
+Gracia...
+2025-05-10 21:30:40,839 - ⚠️ ¡POSIBLE PHISHING DETECTADO! Puntuación: 120
+2025-05-10 21:30:40,839 -    - Dominios en lista negra: apple-id.com
+2025-05-10 21:30:40,839 -    - Dominio sospechoso que imita: apple-id.com (parece apple.com)
+2025-05-10 21:30:40,839 -    - Lenguaje urgente detectado
+2025-05-10 21:30:41,081 - 📩 Correo etiquetado como 'posible-phishing'
+2025-05-10 21:30:41,300 - 📩 Etiquetas tras etiquetar: [b'21 (X-GM-LABELS (posible-phishing))']
+2025-05-10 21:30:41,690 - 📩 Sincronización forzada con el servidor
+2025-05-10 21:30:41,691 - ============================================================
+2025-05-10 21:30:42,222 - ⚠️ Datos del correo b'22' no son bytes: <class 'int'>
+2025-05-10 21:30:44,681 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:30:44,986 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:30:44,987 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:30:44,989 - 🔗 Enlaces extraídos: https://data.x.ai/xai-logo.png", https://accounts.x.ai/change-password">change, https://accounts.x.ai/mfa/devices">enable, https://accounts.x.ai/">account
+2025-05-10 21:30:45,183 - 📝 Cuerpo del mensaje (truncado):
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-- -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--<![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-...
+2025-05-10 21:30:45,183 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:30:45,183 - 📋 Detalles de la evaluación:
+2025-05-10 21:30:45,184 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:30:45,805 - 📩 Correo mantenido como no leído
+2025-05-10 21:30:45,805 - ============================================================
+2025-05-10 21:30:46,115 - 
+📌 Asunto: dUDA
+2025-05-10 21:30:46,522 - 📩 Etiquetas actuales del correo: [b'23 (X-GM-LABELS ())']
+2025-05-10 21:30:46,523 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-10 21:30:46,523 - 🔗 Enlaces extraídos: https://exteriorpersonas-juridico-vz.click
+2025-05-10 21:30:46,657 - 📝 Cuerpo del mensaje (truncado):
+https://exteriorpersonas-juridico-vz.click
+...
+2025-05-10 21:30:46,657 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:30:46,657 - 📋 Detalles de la evaluación:
+2025-05-10 21:30:46,657 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:30:47,131 - 📩 Correo mantenido como no leído
+2025-05-10 21:30:47,132 - ============================================================
+2025-05-10 21:30:47,444 - ⚠️ Error al decodificar el asunto del correo b'24': expected string or bytes-like object
+2025-05-10 21:30:47,444 - 
+📌 Asunto: Asunto no disponible
+2025-05-10 21:30:47,647 - 📩 Etiquetas actuales del correo: [b'24 (X-GM-LABELS ())']
+2025-05-10 21:30:47,647 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-10 21:30:47,648 - 🔗 Enlaces extraídos: http://facebookseguro.com/actualizar)
+2025-05-10 21:30:47,767 - 📝 Cuerpo del mensaje (truncado):
+Estimado usuario,
+
+Hemos notado una actividad sospechosa en tu cuenta de Facebook. Para 
+proteger tu perfil, necesitamos que cambies tu contraseña 
+inmediatamente. Por favor, haz clic en el siguiente enlace para 
+cambiarla:
+
+[Actualizar mi contraseña](http://facebookseguro.com/actualizar)
+
+...
+2025-05-10 21:30:47,768 - ⚠️ ¡POSIBLE PHISHING DETECTADO! Puntuación: 80
+2025-05-10 21:30:47,768 -    - Lenguaje urgente detectado
+2025-05-10 21:30:47,768 -    - Saludo genérico detectado
+2025-05-10 21:30:47,768 -    - Combinación de enlace y saludo genérico
+2025-05-10 21:30:48,059 - 📩 Correo etiquetado como 'posible-phishing'
+2025-05-10 21:30:48,265 - 📩 Etiquetas tras etiquetar: [b'24 (X-GM-LABELS (posible-phishing))']
+2025-05-10 21:30:48,814 - 📩 Sincronización forzada con el servidor
+2025-05-10 21:30:48,814 - ============================================================
+2025-05-10 21:35:02,847 - 🚀 El script ha comenzado...
+2025-05-10 21:35:02,847 - 🔗 Intentando conectar con Gmail...
+2025-05-10 21:35:03,842 - ✅ Conexión exitosa
+2025-05-10 21:35:03,842 - 📬 Nota: Si un correo esperado no aparece, verifica si está en Spam o marcado como leído.
+2025-05-10 21:35:04,247 - 📧 Total de correos no leídos encontrados: 6
+2025-05-10 21:35:04,247 - 📧 Procesando 6 correos...
+2025-05-10 21:35:04,477 - 
+📌 Asunto: a
+2025-05-10 21:35:04,623 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:35:04,623 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:35:04,626 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:35:04,626 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-10 21:35:04,626 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:35:04,626 - 📋 Detalles de la evaluación:
+2025-05-10 21:35:04,626 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:35:04,825 - 📩 Correo mantenido como no leído
+2025-05-10 21:35:04,826 - ============================================================
+2025-05-10 21:35:05,021 - 
+📌 Asunto: Duda
+2025-05-10 21:35:05,166 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-10 21:35:05,166 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:35:05,168 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-10 21:35:05,330 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-10 21:35:05,331 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:35:05,331 - 📋 Detalles de la evaluación:
+2025-05-10 21:35:05,331 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:35:05,538 - 📩 Correo mantenido como no leído
+2025-05-10 21:35:05,538 - ============================================================
+2025-05-10 21:35:05,728 - 
+📌 Asunto: 
+2025-05-10 21:35:05,873 - 📩 Etiquetas actuales del correo: [b'21 (X-GM-LABELS ())']
+2025-05-10 21:35:05,873 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:35:05,875 - 🔗 Enlaces extraídos: http://apple-id.com/verificar), http://apple-id.com/verificar
+2025-05-10 21:35:06,012 - 📝 Cuerpo del mensaje (truncado):
+Hola [Nombre],
+
+Hemos detectado un acceso no autorizado en tu cuenta de Apple ID. Para
+proteger tu información, necesitamos que verifiques tu cuenta
+inmediatamente.
+
+Haz clic en el siguiente enlace para realizar la verificación:
+
+[Verificar mi cuenta](http://apple-id.com/verificar)
+
+Gracia...
+2025-05-10 21:35:06,012 - ⚠️ ¡POSIBLE PHISHING DETECTADO! Puntuación: 120
+2025-05-10 21:35:06,012 -    - Dominios en lista negra: apple-id.com
+2025-05-10 21:35:06,012 -    - Dominio sospechoso que imita: apple-id.com (parece apple.com)
+2025-05-10 21:35:06,012 -    - Lenguaje urgente detectado
+2025-05-10 21:35:06,206 - 📩 Correo etiquetado como 'posible-phishing'
+2025-05-10 21:35:06,423 - 📩 Etiquetas tras etiquetar: [b'21 (X-GM-LABELS (posible-phishing))']
+2025-05-10 21:35:06,760 - 📩 Sincronización forzada con el servidor
+2025-05-10 21:35:06,760 - ============================================================
+2025-05-10 21:35:06,980 - ⚠️ Datos del correo b'22' no son bytes: <class 'int'>
+2025-05-10 21:35:09,159 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:35:09,339 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:35:09,339 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:35:09,342 - 🔗 Enlaces extraídos: https://data.x.ai/xai-logo.png", https://accounts.x.ai/change-password">change, https://accounts.x.ai/mfa/devices">enable, https://accounts.x.ai/">account
+2025-05-10 21:35:09,478 - 📝 Cuerpo del mensaje (truncado):
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-- -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--<![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-...
+2025-05-10 21:35:09,478 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:35:09,478 - 📋 Detalles de la evaluación:
+2025-05-10 21:35:09,478 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:35:09,796 - 📩 Correo mantenido como no leído
+2025-05-10 21:35:09,797 - ============================================================
+2025-05-10 21:35:09,989 - 
+📌 Asunto: dUDA
+2025-05-10 21:35:10,143 - 📩 Etiquetas actuales del correo: [b'23 (X-GM-LABELS ())']
+2025-05-10 21:35:10,143 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-10 21:35:10,144 - 🔗 Enlaces extraídos: https://exteriorpersonas-juridico-vz.click
+2025-05-10 21:35:10,289 - 📝 Cuerpo del mensaje (truncado):
+https://exteriorpersonas-juridico-vz.click
+...
+2025-05-10 21:35:10,289 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:35:10,289 - 📋 Detalles de la evaluación:
+2025-05-10 21:35:10,289 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:35:10,511 - 📩 Correo mantenido como no leído
+2025-05-10 21:35:10,512 - ============================================================
+2025-05-10 21:35:10,719 - ⚠️ Error al decodificar el asunto del correo b'24': expected string or bytes-like object
+2025-05-10 21:35:10,720 - 
+📌 Asunto: Asunto no disponible
+2025-05-10 21:35:10,870 - 📩 Etiquetas actuales del correo: [b'24 (X-GM-LABELS ())']
+2025-05-10 21:35:10,871 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-10 21:35:10,871 - 🔗 Enlaces extraídos: http://facebookseguro.com/actualizar)
+2025-05-10 21:35:11,034 - 📝 Cuerpo del mensaje (truncado):
+Estimado usuario,
+
+Hemos notado una actividad sospechosa en tu cuenta de Facebook. Para 
+proteger tu perfil, necesitamos que cambies tu contraseña 
+inmediatamente. Por favor, haz clic en el siguiente enlace para 
+cambiarla:
+
+[Actualizar mi contraseña](http://facebookseguro.com/actualizar)
+
+...
+2025-05-10 21:35:11,034 - ⚠️ ¡POSIBLE PHISHING DETECTADO! Puntuación: 80
+2025-05-10 21:35:11,034 -    - Lenguaje urgente detectado
+2025-05-10 21:35:11,034 -    - Saludo genérico detectado
+2025-05-10 21:35:11,034 -    - Combinación de enlace y saludo genérico
+2025-05-10 21:35:11,228 - 📩 Correo etiquetado como 'posible-phishing'
+2025-05-10 21:35:11,375 - 📩 Etiquetas tras etiquetar: [b'24 (X-GM-LABELS (posible-phishing))']
+2025-05-10 21:35:11,681 - 📩 Sincronización forzada con el servidor
+2025-05-10 21:35:11,681 - ============================================================
+2025-05-10 21:35:33,306 - 🚀 El script ha comenzado...
+2025-05-10 21:35:33,306 - 🔗 Intentando conectar con Gmail...
+2025-05-10 21:35:34,987 - ✅ Conexión exitosa
+2025-05-10 21:35:34,988 - 📬 Nota: Si un correo esperado no aparece, verifica si está en Spam o marcado como leído.
+2025-05-10 21:35:35,702 - 📧 Total de correos no leídos encontrados: 4
+2025-05-10 21:35:35,702 - 📧 Procesando 4 correos...
+2025-05-10 21:35:35,900 - 
+📌 Asunto: a
+2025-05-10 21:35:36,094 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:35:36,095 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:35:36,097 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:35:36,097 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-10 21:35:36,097 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:35:36,098 - 📋 Detalles de la evaluación:
+2025-05-10 21:35:36,098 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:35:36,340 - 📩 Correo mantenido como no leído
+2025-05-10 21:35:36,340 - ============================================================
+2025-05-10 21:35:36,533 - 
+📌 Asunto: Duda
+2025-05-10 21:35:36,678 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-10 21:35:36,678 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:35:36,678 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-10 21:35:36,850 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-10 21:35:36,850 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:35:36,850 - 📋 Detalles de la evaluación:
+2025-05-10 21:35:36,850 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:35:37,471 - 📩 Correo mantenido como no leído
+2025-05-10 21:35:37,471 - ============================================================
+2025-05-10 21:35:37,675 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:35:37,955 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:35:37,955 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:35:37,957 - 🔗 Enlaces extraídos: https://data.x.ai/xai-logo.png", https://accounts.x.ai/change-password">change, https://accounts.x.ai/mfa/devices">enable, https://accounts.x.ai/">account
+2025-05-10 21:35:38,101 - 📝 Cuerpo del mensaje (truncado):
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-- -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--<![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-...
+2025-05-10 21:35:38,102 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:35:38,102 - 📋 Detalles de la evaluación:
+2025-05-10 21:35:38,102 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:35:38,469 - 📩 Correo mantenido como no leído
+2025-05-10 21:35:38,469 - ============================================================
+2025-05-10 21:35:38,704 - 
+📌 Asunto: dUDA
+2025-05-10 21:35:38,877 - 📩 Etiquetas actuales del correo: [b'23 (X-GM-LABELS ())']
+2025-05-10 21:35:38,877 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-10 21:35:38,877 - 🔗 Enlaces extraídos: https://exteriorpersonas-juridico-vz.click
+2025-05-10 21:35:39,014 - 📝 Cuerpo del mensaje (truncado):
+https://exteriorpersonas-juridico-vz.click
+...
+2025-05-10 21:35:39,015 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:35:39,015 - 📋 Detalles de la evaluación:
+2025-05-10 21:35:39,015 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:35:39,288 - 📩 Correo mantenido como no leído
+2025-05-10 21:35:39,288 - ============================================================
+2025-05-10 21:39:43,383 - 🚀 El script ha comenzado...
+2025-05-10 21:39:43,383 - 🔗 Intentando conectar con Gmail...
+2025-05-10 21:39:44,641 - ✅ Conexión exitosa
+2025-05-10 21:39:44,641 - 📬 Nota: Si un correo esperado no aparece, verifica si está en Spam o marcado como leído.
+2025-05-10 21:39:45,051 - 📧 Total de correos no leídos encontrados: 4
+2025-05-10 21:39:45,051 - 📧 Procesando 4 correos...
+2025-05-10 21:39:45,391 - 
+📌 Asunto: a
+2025-05-10 21:39:45,600 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:39:45,600 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:39:45,603 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:39:46,131 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-10 21:39:46,132 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:39:46,132 - 📋 Detalles de la evaluación:
+2025-05-10 21:39:46,132 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:39:46,344 - 📩 Correo mantenido como no leído
+2025-05-10 21:39:46,344 - ============================================================
+2025-05-10 21:39:46,588 - 
+📌 Asunto: Duda
+2025-05-10 21:39:46,745 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-10 21:39:46,745 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:39:46,746 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-10 21:39:46,913 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-10 21:39:46,913 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:39:46,913 - 📋 Detalles de la evaluación:
+2025-05-10 21:39:46,914 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:39:47,202 - 📩 Correo mantenido como no leído
+2025-05-10 21:39:47,202 - ============================================================
+2025-05-10 21:39:47,423 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:39:47,574 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:39:47,575 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:39:47,578 - 🔗 Enlaces extraídos: https://data.x.ai/xai-logo.png", https://accounts.x.ai/change-password">change, https://accounts.x.ai/mfa/devices">enable, https://accounts.x.ai/">account
+2025-05-10 21:39:47,761 - 📝 Cuerpo del mensaje (truncado):
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-- -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--<![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-...
+2025-05-10 21:39:47,761 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:39:47,761 - 📋 Detalles de la evaluación:
+2025-05-10 21:39:47,761 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:39:48,023 - 📩 Correo mantenido como no leído
+2025-05-10 21:39:48,023 - ============================================================
+2025-05-10 21:39:48,313 - 
+📌 Asunto: dUDA
+2025-05-10 21:39:48,461 - 📩 Etiquetas actuales del correo: [b'23 (X-GM-LABELS ())']
+2025-05-10 21:39:48,461 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-10 21:39:48,461 - 🔗 Enlaces extraídos: https://exteriorpersonas-juridico-vz.click
+2025-05-10 21:39:48,605 - 📝 Cuerpo del mensaje (truncado):
+https://exteriorpersonas-juridico-vz.click
+...
+2025-05-10 21:39:48,605 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:39:48,605 - 📋 Detalles de la evaluación:
+2025-05-10 21:39:48,605 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:39:48,943 - 📩 Correo mantenido como no leído
+2025-05-10 21:39:48,943 - ============================================================
+2025-05-10 21:40:07,796 - 🚀 El script ha comenzado...
+2025-05-10 21:40:07,796 - 🔗 Intentando conectar con Gmail...
+2025-05-10 21:40:09,423 - ✅ Conexión exitosa
+2025-05-10 21:40:09,423 - 📬 Nota: Si un correo esperado no aparece, verifica si está en Spam o marcado como leído.
+2025-05-10 21:40:11,059 - 📧 Total de correos no leídos encontrados: 4
+2025-05-10 21:40:11,059 - 📧 Procesando 4 correos...
+2025-05-10 21:40:11,474 - 
+📌 Asunto: a
+2025-05-10 21:40:11,872 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:40:11,873 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:40:11,874 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:40:11,874 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-10 21:40:11,874 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:40:11,874 - 📋 Detalles de la evaluación:
+2025-05-10 21:40:11,874 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:40:12,699 - 📩 Correo mantenido como no leído
+2025-05-10 21:40:12,699 - ============================================================
+2025-05-10 21:40:13,219 - 
+📌 Asunto: Duda
+2025-05-10 21:40:13,384 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-10 21:40:13,385 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:40:13,386 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-10 21:40:13,535 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-10 21:40:13,536 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:40:13,536 - 📋 Detalles de la evaluación:
+2025-05-10 21:40:13,536 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:40:13,824 - 📩 Correo mantenido como no leído
+2025-05-10 21:40:13,825 - ============================================================
+2025-05-10 21:40:14,263 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:40:14,645 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:40:14,645 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:40:14,645 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-10 21:40:14,953 - 📩 Correo mantenido como no leído
+2025-05-10 21:40:15,182 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:40:15,341 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:40:15,342 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:40:15,342 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-10 21:40:15,540 - 📩 Correo mantenido como no leído
+2025-05-10 21:40:15,876 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:40:16,020 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:40:16,021 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:40:16,021 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-10 21:40:16,301 - 📩 Correo mantenido como no leído
+2025-05-10 21:40:16,602 - 
+📌 Asunto: dUDA
+2025-05-10 21:40:16,753 - 📩 Etiquetas actuales del correo: [b'23 (X-GM-LABELS ())']
+2025-05-10 21:40:16,754 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-10 21:40:16,754 - 🔗 Enlaces extraídos: https://exteriorpersonas-juridico-vz.click
+2025-05-10 21:40:16,904 - 📝 Cuerpo del mensaje (truncado):
+https://exteriorpersonas-juridico-vz.click
+...
+2025-05-10 21:40:16,904 - ⚠️ ¡POSIBLE PHISHING DETECTADO! Puntuación: 90
+2025-05-10 21:40:16,904 -    - Dominios en lista negra: exteriorpersonas-juridico-vz.click
+2025-05-10 21:40:16,904 -    - Dominio sospechoso: exteriorpersonas-juridico-vz.click (coincide con patrón .*juridico.*)
+2025-05-10 21:40:17,101 - 📩 Correo etiquetado como 'posible-phishing'
+2025-05-10 21:40:17,261 - 📩 Etiquetas tras etiquetar: [b'23 (X-GM-LABELS (posible-phishing))']
+2025-05-10 21:40:17,565 - 📩 Sincronización forzada con el servidor
+2025-05-10 21:40:17,565 - ============================================================
+2025-05-10 21:43:57,166 - 🚀 El script ha comenzado...
+2025-05-10 21:43:57,166 - 🔗 Intentando conectar con Gmail...
+2025-05-10 21:43:58,201 - ✅ Conexión exitosa
+2025-05-10 21:43:58,201 - 📬 Nota: Si un correo esperado no aparece, verifica si está en Spam o marcado como leído.
+2025-05-10 21:43:58,579 - 📧 Total de correos no leídos encontrados: 4
+2025-05-10 21:43:58,579 - 📧 Procesando 4 correos...
+2025-05-10 21:43:58,802 - 
+📌 Asunto: a
+2025-05-10 21:43:59,085 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:43:59,085 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:43:59,086 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:43:59,087 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-10 21:43:59,087 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:43:59,087 - 📋 Detalles de la evaluación:
+2025-05-10 21:43:59,087 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:43:59,287 - 📩 Correo mantenido como no leído
+2025-05-10 21:43:59,287 - ============================================================
+2025-05-10 21:43:59,493 - 
+📌 Asunto: Duda
+2025-05-10 21:43:59,643 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-10 21:43:59,643 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:43:59,644 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-10 21:43:59,827 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-10 21:43:59,828 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:43:59,828 - 📋 Detalles de la evaluación:
+2025-05-10 21:43:59,828 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:44:00,132 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:00,133 - ============================================================
+2025-05-10 21:44:00,338 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:44:00,541 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:44:00,541 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:44:00,541 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-10 21:44:00,849 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:01,158 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:44:01,360 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:44:01,360 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:44:01,360 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-10 21:44:01,654 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:01,895 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:44:02,181 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:44:02,181 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:44:02,181 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-10 21:44:02,590 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:02,805 - 
+📌 Asunto: Asunto no disponible
+2025-05-10 21:44:02,960 - 📩 Etiquetas actuales del correo: [b'25 (X-GM-LABELS ())']
+2025-05-10 21:44:02,961 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-10 21:44:02,961 - 🔗 Enlaces extraídos: https://kejejdfajjasfas.click
+2025-05-10 21:44:03,161 - 📝 Cuerpo del mensaje (truncado):
+
+> https://kejejdfajjasfas.click
+...
+2025-05-10 21:44:03,161 - ⚠️ ¡POSIBLE PHISHING DETECTADO! Puntuación: 40
+2025-05-10 21:44:03,161 -    - Dominio sospechoso: kejejdfajjasfas.click (coincide con patrón .*\.click$)
+2025-05-10 21:44:03,435 - 📩 Correo etiquetado como 'posible-phishing'
+2025-05-10 21:44:03,597 - 📩 Etiquetas tras etiquetar: [b'25 (X-GM-LABELS (posible-phishing))']
+2025-05-10 21:44:03,935 - 📩 Sincronización forzada con el servidor
+2025-05-10 21:44:03,936 - ============================================================
+2025-05-10 21:44:24,090 - 🚀 El script ha comenzado...
+2025-05-10 21:44:24,090 - 🔗 Intentando conectar con Gmail...
+2025-05-10 21:44:25,222 - ✅ Conexión exitosa
+2025-05-10 21:44:25,223 - 📬 Nota: Si un correo esperado no aparece, verifica si está en Spam o marcado como leído.
+2025-05-10 21:44:25,630 - 📧 Total de correos no leídos encontrados: 3
+2025-05-10 21:44:25,630 - 📧 Procesando 3 correos...
+2025-05-10 21:44:25,836 - 
+📌 Asunto: a
+2025-05-10 21:44:25,981 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:44:25,982 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:44:25,984 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:44:25,985 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-10 21:44:25,985 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:44:25,985 - 📋 Detalles de la evaluación:
+2025-05-10 21:44:25,985 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:44:26,202 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:26,202 - ============================================================
+2025-05-10 21:44:26,469 - 
+📌 Asunto: Duda
+2025-05-10 21:44:26,697 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-10 21:44:26,698 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:44:26,699 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-10 21:44:26,850 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-10 21:44:26,850 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:44:26,850 - 📋 Detalles de la evaluación:
+2025-05-10 21:44:26,851 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:44:27,050 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:27,050 - ============================================================
+2025-05-10 21:44:27,269 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:44:27,472 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:44:27,472 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:44:27,472 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-10 21:44:27,681 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:27,883 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:44:28,095 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:44:28,096 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:44:28,096 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-10 21:44:28,346 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:28,542 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:44:28,688 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:44:28,689 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:44:28,689 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-10 21:44:29,010 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:37,657 - 🚀 El script ha comenzado...
+2025-05-10 21:44:37,657 - 🔗 Intentando conectar con Gmail...
+2025-05-10 21:44:38,738 - ✅ Conexión exitosa
+2025-05-10 21:44:38,738 - 📬 Nota: Si un correo esperado no aparece, verifica si está en Spam o marcado como leído.
+2025-05-10 21:44:39,146 - 📧 Total de correos no leídos encontrados: 4
+2025-05-10 21:44:39,146 - 📧 Procesando 4 correos...
+2025-05-10 21:44:39,366 - 
+📌 Asunto: a
+2025-05-10 21:44:39,527 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-10 21:44:39,527 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-10 21:44:39,529 - 🔗 Enlaces extraídos: Ninguno
+2025-05-10 21:44:39,530 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-10 21:44:39,530 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:44:39,530 - 📋 Detalles de la evaluación:
+2025-05-10 21:44:39,530 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:44:39,760 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:39,760 - ============================================================
+2025-05-10 21:44:39,988 - 
+📌 Asunto: Duda
+2025-05-10 21:44:40,156 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-10 21:44:40,156 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-10 21:44:40,157 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-10 21:44:40,310 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-10 21:44:40,311 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:44:40,311 - 📋 Detalles de la evaluación:
+2025-05-10 21:44:40,311 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:44:40,518 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:40,518 - ============================================================
+2025-05-10 21:44:40,787 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:44:40,937 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:44:40,937 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:44:40,938 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-10 21:44:41,196 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:41,400 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:44:41,603 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:44:41,604 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:44:41,604 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-10 21:44:41,866 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:42,081 - 
+📌 Asunto: New login to your xAI account
+2025-05-10 21:44:42,246 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-10 21:44:42,246 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-10 21:44:42,246 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-10 21:44:42,501 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:42,693 - 
+📌 Asunto: Asunto no disponible
+2025-05-10 21:44:42,935 - 📩 Etiquetas actuales del correo: [b'26 (X-GM-LABELS ())']
+2025-05-10 21:44:42,935 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-10 21:44:42,935 - 🔗 Enlaces extraídos: https://support-service-family.com
+2025-05-10 21:44:43,077 - 📝 Cuerpo del mensaje (truncado):
+https://support-service-family.com
+...
+2025-05-10 21:44:43,077 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-10 21:44:43,077 - 📋 Detalles de la evaluación:
+2025-05-10 21:44:43,077 -    - Ninguna señal sospechosa detectada
+2025-05-10 21:44:43,293 - 📩 Correo mantenido como no leído
+2025-05-10 21:44:43,294 - ============================================================
+2025-05-13 19:33:56,454 - 🔗 Intentando conectar con Gmail...
+2025-05-13 19:33:57,251 - ✅ Conexión exitosa
+2025-05-13 19:34:39,530 - 🔗 Intentando conectar con Gmail...
+2025-05-13 19:34:40,669 - ✅ Conexión exitosa
+2025-05-13 19:34:42,645 - 📬 Nota: Si un correo esperado no aparece, verifica si está en Spam o marcado como leído.
+2025-05-13 19:34:43,228 - 📧 Total de correos no leídos encontrados: 7
+2025-05-13 19:34:43,228 - 📧 Procesando 7 correos...
+2025-05-13 19:34:43,539 - 
+📌 Asunto: a
+2025-05-13 19:34:43,726 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-13 19:34:43,727 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-13 19:34:43,729 - 🔗 Enlaces extraídos: Ninguno
+2025-05-13 19:34:44,208 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-13 19:34:44,208 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:34:44,208 - 📋 Detalles de la evaluación:
+2025-05-13 19:34:44,208 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:34:44,437 - 📩 Correo mantenido como no leído
+2025-05-13 19:34:44,437 - ============================================================
+2025-05-13 19:34:44,769 - 
+📌 Asunto: Duda
+2025-05-13 19:34:45,074 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-13 19:34:45,074 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-13 19:34:45,075 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-13 19:34:45,286 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-13 19:34:45,287 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:34:45,287 - 📋 Detalles de la evaluación:
+2025-05-13 19:34:45,287 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:34:45,585 - 📩 Correo mantenido como no leído
+2025-05-13 19:34:45,585 - ============================================================
+2025-05-13 19:34:45,894 - 
+📌 Asunto: New login to your xAI account
+2025-05-13 19:34:46,095 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-13 19:34:46,096 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-13 19:34:46,096 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-13 19:34:46,403 - 📩 Correo mantenido como no leído
+2025-05-13 19:34:46,629 - 
+📌 Asunto: New login to your xAI account
+2025-05-13 19:34:46,916 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-13 19:34:46,916 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-13 19:34:46,917 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-13 19:34:47,223 - 📩 Correo mantenido como no leído
+2025-05-13 19:34:47,431 - 
+📌 Asunto: New login to your xAI account
+2025-05-13 19:34:47,737 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-13 19:34:47,737 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-13 19:34:47,737 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-13 19:34:48,042 - 📩 Correo mantenido como no leído
+2025-05-13 19:34:48,290 - 
+📌 Asunto: Asunto no disponible
+2025-05-13 19:34:48,563 - 📩 Etiquetas actuales del correo: [b'26 (X-GM-LABELS ())']
+2025-05-13 19:34:48,563 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-13 19:34:48,564 - 🔗 Enlaces extraídos: https://support-service-family.com
+2025-05-13 19:34:48,844 - 📝 Cuerpo del mensaje (truncado):
+https://support-service-family.com
+...
+2025-05-13 19:34:48,844 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:34:48,844 - 📋 Detalles de la evaluación:
+2025-05-13 19:34:48,844 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:34:49,071 - 📩 Correo mantenido como no leído
+2025-05-13 19:34:49,071 - ============================================================
+2025-05-13 19:34:49,480 - 
+📌 Asunto: Fwd: Hola
+2025-05-13 19:34:49,627 - 📩 Etiquetas actuales del correo: [b'27 (X-GM-LABELS ())']
+2025-05-13 19:34:49,627 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-13 19:34:49,632 - 🔗 Enlaces extraídos: https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#cl/311816_smd/87/367132/12237/1975/50118>, https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#un/311816_smd/87/367132/12237/1975/50118>
+2025-05-13 19:34:49,814 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: Lisa assistencia <mansinghtamattak46@gmail.com>
+Date: dom, 13 abr 2025 a las 19:01
+Subject: Re: Hola
+To: alpalencia01@gmail.com <alpalencia01@gmail.com>
+Cc: alpalencia01@gmail.com <alpalencia01@gmail.com>
+
+
+Decathlon🎁
+
+Tu opinión nos importa
+¡Opi...
+2025-05-13 19:34:49,814 - 🛡️ No se detectó phishing. Puntuación: 20
+2025-05-13 19:34:49,814 - 📋 Detalles de la evaluación:
+2025-05-13 19:34:49,814 -    - Frases sospechosas: tu opinión nos importa
+2025-05-13 19:34:50,193 - 📩 Correo mantenido como no leído
+2025-05-13 19:34:50,194 - ============================================================
+2025-05-13 19:34:50,517 - 
+📌 Asunto: Fwd: Claim "Una discreta diferenciación entre la política y lo político y su..." for your profile
+2025-05-13 19:34:50,705 - 📩 Etiquetas actuales del correo: [b'30 (X-GM-LABELS ())']
+2025-05-13 19:34:50,705 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-13 19:34:50,713 - 🔗 Enlaces extraídos: https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/>, https://www.academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/mentions/claim_papers/claim?paper_id=1610098872>, https://www.academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/mentions_verification?anticlaim_paper_id=1610098872>, https://academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/confirm_unsubscribe/confirm_papers>, https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/privacy>, https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/terms>
+2025-05-13 19:34:50,889 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: Una discreta diferenciación entre la política y lo político y su
+incidencia sobre la educación en cuanto socialización política <
+updates@academia-mail.com>
+Date: dom, 11 may 2025 a las 10:01
+Subject: Claim "Una discreta diferenciación entre la polític...
+2025-05-13 19:34:50,889 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:34:50,890 - 📋 Detalles de la evaluación:
+2025-05-13 19:34:50,890 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:34:51,113 - 📩 Correo mantenido como no leído
+2025-05-13 19:34:51,113 - ============================================================
+2025-05-13 19:34:51,329 - 
+📌 Asunto: Fwd: Nueva solicitud en la Sede Electrónica de la UGR
+2025-05-13 19:34:51,523 - 📩 Etiquetas actuales del correo: [b'34 (X-GM-LABELS ())']
+2025-05-13 19:34:51,523 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-13 19:34:51,526 - 🔗 Enlaces extraídos: https://sede.ugr.es/sede_mi_sede_portada.html>*
+2025-05-13 19:34:51,712 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: <noreply_ead@ugr.es>
+Date: jue, 8 may 2025 a las 18:58
+Subject: Nueva solicitud en la Sede Electrónica de la UGR
+To: <ppalencia01@gmail.com>
+
+
+Estimado/a solicitante:
+Le confirmamos que se ha recibido y almacenado la documentación de su
+solicitud d...
+2025-05-13 19:34:51,712 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:34:51,712 - 📋 Detalles de la evaluación:
+2025-05-13 19:34:51,712 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:34:51,914 - 📩 Correo mantenido como no leído
+2025-05-13 19:34:51,914 - ============================================================
+2025-05-13 19:46:12,234 - 🔗 Intentando conectar con Gmail...
+2025-05-13 19:46:13,515 - ✅ Conexión exitosa
+2025-05-13 19:46:18,206 - 📬 Nota: Si un correo esperado no aparece, verifica si está en Spam o marcado como leído.
+2025-05-13 19:46:18,566 - 📧 Total de correos no leídos encontrados: 7
+2025-05-13 19:46:18,566 - 📧 Procesando 7 correos...
+2025-05-13 19:46:18,840 - 
+📌 Asunto: a
+2025-05-13 19:46:19,037 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-13 19:46:19,038 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-13 19:46:19,040 - 🔗 Enlaces extraídos: Ninguno
+2025-05-13 19:46:19,040 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-13 19:46:19,040 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:46:19,040 - 📋 Detalles de la evaluación:
+2025-05-13 19:46:19,040 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:46:19,347 - 📩 Correo mantenido como no leído
+2025-05-13 19:46:19,347 - ============================================================
+2025-05-13 19:46:19,565 - 
+📌 Asunto: Duda
+2025-05-13 19:46:19,759 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-13 19:46:19,760 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-13 19:46:19,761 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-13 19:46:19,974 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-13 19:46:19,975 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:46:19,975 - 📋 Detalles de la evaluación:
+2025-05-13 19:46:19,975 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:46:20,272 - 📩 Correo mantenido como no leído
+2025-05-13 19:46:20,272 - ============================================================
+2025-05-13 19:46:20,472 - 
+📌 Asunto: New login to your xAI account
+2025-05-13 19:46:20,624 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-13 19:46:20,625 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-13 19:46:20,625 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-13 19:46:21,086 - 📩 Correo mantenido como no leído
+2025-05-13 19:46:21,298 - 
+📌 Asunto: New login to your xAI account
+2025-05-13 19:46:21,494 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-13 19:46:21,495 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-13 19:46:21,495 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-13 19:46:21,804 - 📩 Correo mantenido como no leído
+2025-05-13 19:46:22,018 - 
+📌 Asunto: New login to your xAI account
+2025-05-13 19:46:22,213 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-13 19:46:22,213 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-13 19:46:22,214 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-13 19:46:22,416 - 📩 Correo mantenido como no leído
+2025-05-13 19:46:22,727 - 
+📌 Asunto: Asunto no disponible
+2025-05-13 19:46:22,934 - 📩 Etiquetas actuales del correo: [b'26 (X-GM-LABELS ())']
+2025-05-13 19:46:22,935 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-13 19:46:22,944 - 🔗 Enlaces extraídos: https://support-service-family.com
+2025-05-13 19:46:23,135 - 📝 Cuerpo del mensaje (truncado):
+https://support-service-family.com
+...
+2025-05-13 19:46:23,135 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:46:23,135 - 📋 Detalles de la evaluación:
+2025-05-13 19:46:23,136 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:46:23,543 - 📩 Correo mantenido como no leído
+2025-05-13 19:46:23,544 - ============================================================
+2025-05-13 19:46:23,892 - 
+📌 Asunto: Fwd: Hola
+2025-05-13 19:46:24,054 - 📩 Etiquetas actuales del correo: [b'27 (X-GM-LABELS ())']
+2025-05-13 19:46:24,055 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-13 19:46:24,060 - 🔗 Enlaces extraídos: https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#cl/311816_smd/87/367132/12237/1975/50118>, https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#un/311816_smd/87/367132/12237/1975/50118>
+2025-05-13 19:46:24,246 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: Lisa assistencia <mansinghtamattak46@gmail.com>
+Date: dom, 13 abr 2025 a las 19:01
+Subject: Re: Hola
+To: alpalencia01@gmail.com <alpalencia01@gmail.com>
+Cc: alpalencia01@gmail.com <alpalencia01@gmail.com>
+
+
+Decathlon🎁
+
+Tu opinión nos importa
+¡Opi...
+2025-05-13 19:46:24,246 - 🛡️ No se detectó phishing. Puntuación: 20
+2025-05-13 19:46:24,246 - 📋 Detalles de la evaluación:
+2025-05-13 19:46:24,247 -    - Frases sospechosas: tu opinión nos importa
+2025-05-13 19:46:24,464 - 📩 Correo mantenido como no leído
+2025-05-13 19:46:24,464 - ============================================================
+2025-05-13 19:46:24,679 - 
+📌 Asunto: Fwd: Claim "Una discreta diferenciación entre la política y lo político y su..." for your profile
+2025-05-13 19:46:24,827 - 📩 Etiquetas actuales del correo: [b'30 (X-GM-LABELS ())']
+2025-05-13 19:46:24,827 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-13 19:46:24,835 - 🔗 Enlaces extraídos: https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/>, https://www.academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/mentions/claim_papers/claim?paper_id=1610098872>, https://www.academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/mentions_verification?anticlaim_paper_id=1610098872>, https://academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/confirm_unsubscribe/confirm_papers>, https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/privacy>, https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/terms>
+2025-05-13 19:46:25,027 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: Una discreta diferenciación entre la política y lo político y su
+incidencia sobre la educación en cuanto socialización política <
+updates@academia-mail.com>
+Date: dom, 11 may 2025 a las 10:01
+Subject: Claim "Una discreta diferenciación entre la polític...
+2025-05-13 19:46:25,028 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:46:25,028 - 📋 Detalles de la evaluación:
+2025-05-13 19:46:25,028 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:46:25,283 - 📩 Correo mantenido como no leído
+2025-05-13 19:46:25,284 - ============================================================
+2025-05-13 19:46:25,475 - 
+📌 Asunto: Fwd: Nueva solicitud en la Sede Electrónica de la UGR
+2025-05-13 19:46:25,620 - 📩 Etiquetas actuales del correo: [b'34 (X-GM-LABELS ())']
+2025-05-13 19:46:25,621 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-13 19:46:25,624 - 🔗 Enlaces extraídos: https://sede.ugr.es/sede_mi_sede_portada.html>*
+2025-05-13 19:46:25,810 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: <noreply_ead@ugr.es>
+Date: jue, 8 may 2025 a las 18:58
+Subject: Nueva solicitud en la Sede Electrónica de la UGR
+To: <ppalencia01@gmail.com>
+
+
+Estimado/a solicitante:
+Le confirmamos que se ha recibido y almacenado la documentación de su
+solicitud d...
+2025-05-13 19:46:25,810 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:46:25,810 - 📋 Detalles de la evaluación:
+2025-05-13 19:46:25,810 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:46:26,103 - 📩 Correo mantenido como no leído
+2025-05-13 19:46:26,104 - ============================================================
+2025-05-13 19:56:01,972 - 🔗 Intentando conectar con Gmail...
+2025-05-13 19:56:03,047 - ✅ Conexión exitosa
+2025-05-13 19:56:05,144 - 📬 Nota: Si un correo esperado no aparece, verifica si está en Spam o marcado como leído.
+2025-05-13 19:56:05,484 - 📧 Total de correos no leídos encontrados: 7
+2025-05-13 19:56:05,484 - 📧 Procesando 7 correos...
+2025-05-13 19:56:05,674 - 
+📌 Asunto: a
+2025-05-13 19:56:05,893 - 📩 Etiquetas actuales del correo: [b'19 (X-GM-LABELS ("\\\\Important" "\\\\Sent"))']
+2025-05-13 19:56:05,893 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-13 19:56:05,895 - 🔗 Enlaces extraídos: Ninguno
+2025-05-13 19:56:05,896 - 📝 Cuerpo del mensaje (truncado):
+a
+a...
+2025-05-13 19:56:05,896 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:56:05,896 - 📋 Detalles de la evaluación:
+2025-05-13 19:56:05,896 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:56:06,093 - 📩 Correo mantenido como no leído
+2025-05-13 19:56:06,094 - ============================================================
+2025-05-13 19:56:06,307 - 
+📌 Asunto: Duda
+2025-05-13 19:56:06,447 - 📩 Etiquetas actuales del correo: [b'20 (X-GM-LABELS ())']
+2025-05-13 19:56:06,447 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-13 19:56:06,449 - 🔗 Enlaces extraídos: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-13 19:56:06,672 - 📝 Cuerpo del mensaje (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-13 19:56:06,672 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:56:06,672 - 📋 Detalles de la evaluación:
+2025-05-13 19:56:06,673 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:56:06,917 - 📩 Correo mantenido como no leído
+2025-05-13 19:56:06,917 - ============================================================
+2025-05-13 19:56:07,124 - 
+📌 Asunto: New login to your xAI account
+2025-05-13 19:56:07,265 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-13 19:56:07,265 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-13 19:56:07,265 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-13 19:56:07,605 - 📩 Correo mantenido como no leído
+2025-05-13 19:56:07,795 - 
+📌 Asunto: New login to your xAI account
+2025-05-13 19:56:07,930 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-13 19:56:07,931 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-13 19:56:07,931 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-13 19:56:08,249 - 📩 Correo mantenido como no leído
+2025-05-13 19:56:08,440 - 
+📌 Asunto: New login to your xAI account
+2025-05-13 19:56:08,576 - 📩 Etiquetas actuales del correo: [b'22 (X-GM-LABELS ())']
+2025-05-13 19:56:08,576 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-13 19:56:08,576 - 🛡️ Remitente confiable: xai <noreply@x.ai>. No se procesa.
+2025-05-13 19:56:08,865 - 📩 Correo mantenido como no leído
+2025-05-13 19:56:09,071 - 
+📌 Asunto: Asunto no disponible
+2025-05-13 19:56:09,229 - 📩 Etiquetas actuales del correo: [b'26 (X-GM-LABELS ())']
+2025-05-13 19:56:09,229 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-13 19:56:09,230 - 🔗 Enlaces extraídos: https://support-service-family.com
+2025-05-13 19:56:09,445 - 📝 Cuerpo del mensaje (truncado):
+https://support-service-family.com
+...
+2025-05-13 19:56:09,445 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:56:09,445 - 📋 Detalles de la evaluación:
+2025-05-13 19:56:09,446 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:56:09,791 - 📩 Correo mantenido como no leído
+2025-05-13 19:56:09,791 - ============================================================
+2025-05-13 19:56:10,131 - 
+📌 Asunto: Fwd: Hola
+2025-05-13 19:56:10,269 - 📩 Etiquetas actuales del correo: [b'27 (X-GM-LABELS ())']
+2025-05-13 19:56:10,269 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-13 19:56:10,274 - 🔗 Enlaces extraídos: https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#cl/311816_smd/87/367132/12237/1975/50118>, https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#un/311816_smd/87/367132/12237/1975/50118>
+2025-05-13 19:56:10,468 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: Lisa assistencia <mansinghtamattak46@gmail.com>
+Date: dom, 13 abr 2025 a las 19:01
+Subject: Re: Hola
+To: alpalencia01@gmail.com <alpalencia01@gmail.com>
+Cc: alpalencia01@gmail.com <alpalencia01@gmail.com>
+
+
+Decathlon🎁
+
+Tu opinión nos importa
+¡Opi...
+2025-05-13 19:56:10,468 - 🛡️ No se detectó phishing. Puntuación: 20
+2025-05-13 19:56:10,469 - 📋 Detalles de la evaluación:
+2025-05-13 19:56:10,469 -    - Frases sospechosas: tu opinión nos importa
+2025-05-13 19:56:10,705 - 📩 Correo mantenido como no leído
+2025-05-13 19:56:10,706 - ============================================================
+2025-05-13 19:56:11,151 - 
+📌 Asunto: Fwd: Claim "Una discreta diferenciación entre la política y lo político y su..." for your profile
+2025-05-13 19:56:11,422 - 📩 Etiquetas actuales del correo: [b'30 (X-GM-LABELS ())']
+2025-05-13 19:56:11,422 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-13 19:56:11,431 - 🔗 Enlaces extraídos: https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/>, https://www.academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/mentions/claim_papers/claim?paper_id=1610098872>, https://www.academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/mentions_verification?anticlaim_paper_id=1610098872>, https://academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/confirm_unsubscribe/confirm_papers>, https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/privacy>, https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/terms>
+2025-05-13 19:56:11,609 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: Una discreta diferenciación entre la política y lo político y su
+incidencia sobre la educación en cuanto socialización política <
+updates@academia-mail.com>
+Date: dom, 11 may 2025 a las 10:01
+Subject: Claim "Una discreta diferenciación entre la polític...
+2025-05-13 19:56:11,610 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:56:11,610 - 📋 Detalles de la evaluación:
+2025-05-13 19:56:11,610 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:56:11,800 - 📩 Correo mantenido como no leído
+2025-05-13 19:56:11,800 - ============================================================
+2025-05-13 19:56:12,053 - 
+📌 Asunto: Fwd: Nueva solicitud en la Sede Electrónica de la UGR
+2025-05-13 19:56:12,345 - 📩 Etiquetas actuales del correo: [b'34 (X-GM-LABELS ())']
+2025-05-13 19:56:12,346 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-13 19:56:12,349 - 🔗 Enlaces extraídos: https://sede.ugr.es/sede_mi_sede_portada.html>*
+2025-05-13 19:56:12,540 - 📝 Cuerpo del mensaje (truncado):
+---------- Forwarded message ---------
+De: <noreply_ead@ugr.es>
+Date: jue, 8 may 2025 a las 18:58
+Subject: Nueva solicitud en la Sede Electrónica de la UGR
+To: <ppalencia01@gmail.com>
+
+
+Estimado/a solicitante:
+Le confirmamos que se ha recibido y almacenado la documentación de su
+solicitud d...
+2025-05-13 19:56:12,540 - 🛡️ No se detectó phishing. Puntuación: 0
+2025-05-13 19:56:12,541 - 📋 Detalles de la evaluación:
+2025-05-13 19:56:12,541 -    - Ninguna señal sospechosa detectada
+2025-05-13 19:56:12,856 - 📩 Correo mantenido como no leído
+2025-05-13 19:56:12,856 - ============================================================
+2025-05-13 20:01:24,033 - 🔗 Intentando conectar con Gmail...
+2025-05-13 20:01:24,976 - ✅ Conexión exitosa
+2025-05-13 20:02:47,259 - 🔗 Conectando con Gmail...
+2025-05-13 20:02:47,920 - ✅ Conexión exitosa
+2025-05-13 20:03:24,785 - 🔗 Conectando con Gmail...
+2025-05-13 20:03:25,908 - ✅ Conexión exitosa
+2025-05-13 20:11:22,821 - 🔗 Conectando con Gmail...
+2025-05-13 20:11:23,946 - ✅ Conexión exitosa
+2025-05-13 20:15:43,138 - 🔗 Conectando con Gmail...
+2025-05-13 20:15:44,350 - ✅ Conexión exitosa
+2025-05-13 20:15:46,583 - 📬 Nota: Verifica la carpeta de Spam si no ves correos esperados.
+2025-05-13 20:15:47,026 - 📧 Total de correos no leídos: 7
+2025-05-13 20:15:47,026 - 📧 Procesando 7 correos...
+2025-05-13 20:15:47,261 - 
+📌 Asunto: a
+2025-05-13 20:15:47,261 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-13 20:15:47,263 - 🔗 Enlaces: Ninguno
+2025-05-13 20:15:47,263 - 📝 Cuerpo (truncado):
+a
+a...
+2025-05-13 20:15:47,263 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:15:47,525 - 📩 Correo mantenido como no leído
+2025-05-13 20:15:47,525 - ============================================================
+2025-05-13 20:15:47,739 - 
+📌 Asunto: Duda
+2025-05-13 20:15:47,740 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-13 20:15:47,741 - 🔗 Enlaces: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-13 20:15:47,954 - 📝 Cuerpo (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-13 20:15:47,954 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:15:48,247 - 📩 Correo mantenido como no leído
+2025-05-13 20:15:48,247 - ============================================================
+2025-05-13 20:15:48,551 - 
+📌 Asunto: New login to your xAI account
+2025-05-13 20:15:48,551 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-13 20:15:48,551 - 🛡️ Remitente confiable: xai <noreply@x.ai>
+2025-05-13 20:15:49,014 - 
+📌 Asunto: Asunto no disponible
+2025-05-13 20:15:49,015 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-13 20:15:49,015 - 🔗 Enlaces: https://support-service-family.com
+2025-05-13 20:15:49,225 - 📝 Cuerpo (truncado):
+https://support-service-family.com
+...
+2025-05-13 20:15:49,226 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:15:49,483 - 📩 Correo mantenido como no leído
+2025-05-13 20:15:49,483 - ============================================================
+2025-05-13 20:15:49,869 - 
+📌 Asunto: Fwd: Hola
+2025-05-13 20:15:49,870 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-13 20:15:49,874 - 🔗 Enlaces: https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#cl/311816_smd/87/367132/12237/1975/50118>, https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#un/311816_smd/87/367132/12237/1975/50118>
+2025-05-13 20:15:50,066 - 📝 Cuerpo (truncado):
+---------- Forwarded message ---------
+De: Lisa assistencia <mansinghtamattak46@gmail.com>
+Date: dom, 13 abr 2025 a las 19:01
+Subject: Re: Hola
+To: alpalencia01@gmail.com <alpalencia01@gmail.com>
+Cc: alpalencia01@gmail.com <alpalencia01@gmail.com>
+
+
+Decathlon🎁
+
+Tu opinión nos importa
+¡Opi...
+2025-05-13 20:15:50,067 - 🛡️ No phishing. Puntuación: 20
+2025-05-13 20:15:50,067 -    - Frases sospechosas: tu opinión nos importa
+2025-05-13 20:15:50,392 - 📩 Correo mantenido como no leído
+2025-05-13 20:15:50,392 - ============================================================
+2025-05-13 20:15:50,632 - 
+📌 Asunto: Fwd: Claim "Una discreta diferenciación entre la política y lo político y su..." for your profile
+2025-05-13 20:15:50,632 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-13 20:15:50,646 - 🔗 Enlaces: https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/>, https://www.academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/mentions/claim_papers/claim?paper_id=1610098872>, https://www.academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/mentions_verification?anticlaim_paper_id=1610098872>, https://academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/confirm_unsubscribe/confirm_papers>, https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/privacy>, https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/terms>
+2025-05-13 20:15:50,841 - 📝 Cuerpo (truncado):
+---------- Forwarded message ---------
+De: Una discreta diferenciación entre la política y lo político y su
+incidencia sobre la educación en cuanto socialización política <
+updates@academia-mail.com>
+Date: dom, 11 may 2025 a las 10:01
+Subject: Claim "Una discreta diferenciación entre la polític...
+2025-05-13 20:15:50,842 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:15:51,217 - 📩 Correo mantenido como no leído
+2025-05-13 20:15:51,218 - ============================================================
+2025-05-13 20:15:51,425 - 
+📌 Asunto: Fwd: Nueva solicitud en la Sede Electrónica de la UGR
+2025-05-13 20:15:51,425 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-13 20:15:51,426 - 🔗 Enlaces: https://sede.ugr.es/sede_mi_sede_portada.html>*
+2025-05-13 20:15:51,616 - 📝 Cuerpo (truncado):
+---------- Forwarded message ---------
+De: <noreply_ead@ugr.es>
+Date: jue, 8 may 2025 a las 18:58
+Subject: Nueva solicitud en la Sede Electrónica de la UGR
+To: <ppalencia01@gmail.com>
+
+
+Estimado/a solicitante:
+Le confirmamos que se ha recibido y almacenado la documentación de su
+solicitud d...
+2025-05-13 20:15:51,617 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:15:51,832 - 📩 Correo mantenido como no leído
+2025-05-13 20:15:51,832 - ============================================================
+2025-05-13 20:24:14,875 - 🔗 Conectando con Gmail...
+2025-05-13 20:24:16,026 - ✅ Conexión exitosa
+2025-05-13 20:24:17,801 - 📬 Nota: Verifica la carpeta de Spam si no ves correos esperados.
+2025-05-13 20:24:18,404 - 📧 Total de correos no leídos: 7
+2025-05-13 20:24:18,404 - 📧 Procesando 7 correos...
+2025-05-13 20:24:18,611 - 
+📌 Asunto: a
+2025-05-13 20:24:18,612 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-13 20:24:18,614 - 🔗 Enlaces: Ninguno
+2025-05-13 20:24:18,615 - 📝 Cuerpo (truncado):
+a
+a...
+2025-05-13 20:24:18,615 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:24:18,816 - 📩 Correo mantenido como no leído
+2025-05-13 20:24:18,817 - ============================================================
+2025-05-13 20:24:19,026 - 
+📌 Asunto: Duda
+2025-05-13 20:24:19,027 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-13 20:24:19,028 - 🔗 Enlaces: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-13 20:24:19,238 - 📝 Cuerpo (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-13 20:24:19,239 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:24:19,531 - 📩 Correo mantenido como no leído
+2025-05-13 20:24:19,532 - ============================================================
+2025-05-13 20:24:19,737 - 
+📌 Asunto: New login to your xAI account
+2025-05-13 20:24:19,737 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-13 20:24:19,737 - 🛡️ Remitente confiable: xai <noreply@x.ai>
+2025-05-13 20:24:20,383 - 
+📌 Asunto: Asunto no disponible
+2025-05-13 20:24:20,383 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-13 20:24:20,383 - 🔗 Enlaces: https://support-service-family.com
+2025-05-13 20:24:20,581 - 📝 Cuerpo (truncado):
+https://support-service-family.com
+...
+2025-05-13 20:24:20,581 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:24:20,861 - 📩 Correo mantenido como no leído
+2025-05-13 20:24:20,861 - ============================================================
+2025-05-13 20:24:21,480 - 
+📌 Asunto: Fwd: Hola
+2025-05-13 20:24:21,481 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-13 20:24:21,486 - 🔗 Enlaces: https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#cl/311816_smd/87/367132/12237/1975/50118>, https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#un/311816_smd/87/367132/12237/1975/50118>
+2025-05-13 20:24:21,712 - 📝 Cuerpo (truncado):
+---------- Forwarded message ---------
+De: Lisa assistencia <mansinghtamattak46@gmail.com>
+Date: dom, 13 abr 2025 a las 19:01
+Subject: Re: Hola
+To: alpalencia01@gmail.com <alpalencia01@gmail.com>
+Cc: alpalencia01@gmail.com <alpalencia01@gmail.com>
+
+
+Decathlon🎁
+
+Tu opinión nos importa
+¡Opi...
+2025-05-13 20:24:21,713 - 🛡️ No phishing. Puntuación: 20
+2025-05-13 20:24:21,713 -    - Frases sospechosas: tu opinión nos importa
+2025-05-13 20:24:21,987 - 📩 Correo mantenido como no leído
+2025-05-13 20:24:21,987 - ============================================================
+2025-05-13 20:24:22,237 - 
+📌 Asunto: Fwd: Claim "Una discreta diferenciación entre la política y lo político y su..." for your profile
+2025-05-13 20:24:22,237 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-13 20:24:22,241 - 🔗 Enlaces: https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/>, https://www.academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/mentions/claim_papers/claim?paper_id=1610098872>, https://www.academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/mentions_verification?anticlaim_paper_id=1610098872>, https://academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/confirm_unsubscribe/confirm_papers>, https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/privacy>, https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/terms>
+2025-05-13 20:24:22,445 - 📝 Cuerpo (truncado):
+---------- Forwarded message ---------
+De: Una discreta diferenciación entre la política y lo político y su
+incidencia sobre la educación en cuanto socialización política <
+updates@academia-mail.com>
+Date: dom, 11 may 2025 a las 10:01
+Subject: Claim "Una discreta diferenciación entre la polític...
+2025-05-13 20:24:22,445 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:24:22,704 - 📩 Correo mantenido como no leído
+2025-05-13 20:24:22,704 - ============================================================
+2025-05-13 20:24:22,910 - 
+📌 Asunto: Fwd: Nueva solicitud en la Sede Electrónica de la UGR
+2025-05-13 20:24:22,910 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-13 20:24:22,913 - 🔗 Enlaces: https://sede.ugr.es/sede_mi_sede_portada.html>*
+2025-05-13 20:24:23,123 - 📝 Cuerpo (truncado):
+---------- Forwarded message ---------
+De: <noreply_ead@ugr.es>
+Date: jue, 8 may 2025 a las 18:58
+Subject: Nueva solicitud en la Sede Electrónica de la UGR
+To: <ppalencia01@gmail.com>
+
+
+Estimado/a solicitante:
+Le confirmamos que se ha recibido y almacenado la documentación de su
+solicitud d...
+2025-05-13 20:24:23,123 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:24:23,321 - 📩 Correo mantenido como no leído
+2025-05-13 20:24:23,321 - ============================================================
+2025-05-13 20:27:49,870 - 🔗 Conectando con Gmail...
+2025-05-13 20:27:51,297 - ✅ Conexión exitosa
+2025-05-13 20:27:54,321 - 📬 Nota: Verifica la carpeta de Spam si no ves correos esperados.
+2025-05-13 20:27:54,885 - 📧 Total de correos no leídos: 7
+2025-05-13 20:27:54,885 - 📧 Procesando 7 correos...
+2025-05-13 20:27:55,190 - 
+📌 Asunto: a
+2025-05-13 20:27:55,190 - 📩 Remitente: cuentaprueba wolf <wolfcuentaprueba@gmail.com>
+2025-05-13 20:27:55,192 - 🔗 Enlaces: Ninguno
+2025-05-13 20:27:55,193 - 📝 Cuerpo (truncado):
+a
+a...
+2025-05-13 20:27:55,193 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:27:55,599 - 📩 Correo mantenido como no leído
+2025-05-13 20:27:55,599 - ============================================================
+2025-05-13 20:27:55,806 - 
+📌 Asunto: Duda
+2025-05-13 20:27:55,806 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-13 20:27:55,807 - 🔗 Enlaces: https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893, https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893
+2025-05-13 20:27:56,019 - 📝 Cuerpo (truncado):
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es
+donde se hace el examen?
+Buenas en https://pradogrado2425.ugr.es/mod/assign/view.php?id=240893 es donde se hace el examen?...
+2025-05-13 20:27:56,019 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:27:56,315 - 📩 Correo mantenido como no leído
+2025-05-13 20:27:56,316 - ============================================================
+2025-05-13 20:27:56,625 - 
+📌 Asunto: New login to your xAI account
+2025-05-13 20:27:56,625 - 📩 Remitente: xai <noreply@x.ai>
+2025-05-13 20:27:56,625 - 🛡️ Remitente confiable: xai <noreply@x.ai>
+2025-05-13 20:27:57,215 - 
+📌 Asunto: Asunto no disponible
+2025-05-13 20:27:57,215 - 📩 Remitente: pablopalencia@correo.ugr.es
+2025-05-13 20:27:57,215 - 🔗 Enlaces: https://support-service-family.com
+2025-05-13 20:27:57,440 - 📝 Cuerpo (truncado):
+https://support-service-family.com
+...
+2025-05-13 20:27:57,440 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:27:58,261 - 📩 Correo mantenido como no leído
+2025-05-13 20:27:58,262 - ============================================================
+2025-05-13 20:27:58,571 - 
+📌 Asunto: Fwd: Hola
+2025-05-13 20:27:58,571 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-13 20:27:58,576 - 🔗 Enlaces: https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#cl/311816_smd/87/367132/12237/1975/50118>, https://insfou17776.emlnk.com/lt.php?x=3TxtmrUFUqPUT55qA3P3hRFzAq7Wv_LujMk0kXHMKqWaEs7_zNHHhOJrAHzRv__fx10wbHQWIGGa6E#un/311816_smd/87/367132/12237/1975/50118>
+2025-05-13 20:27:58,832 - 📝 Cuerpo (truncado):
+---------- Forwarded message ---------
+De: Lisa assistencia <mansinghtamattak46@gmail.com>
+Date: dom, 13 abr 2025 a las 19:01
+Subject: Re: Hola
+To: alpalencia01@gmail.com <alpalencia01@gmail.com>
+Cc: alpalencia01@gmail.com <alpalencia01@gmail.com>
+
+
+Decathlon🎁
+
+Tu opinión nos importa
+¡Opi...
+2025-05-13 20:27:58,832 - 🛡️ No phishing. Puntuación: 20
+2025-05-13 20:27:58,832 -    - Frases sospechosas: tu opinión nos importa
+2025-05-13 20:27:59,185 - 📩 Correo mantenido como no leído
+2025-05-13 20:27:59,185 - ============================================================
+2025-05-13 20:27:59,593 - 
+📌 Asunto: Fwd: Claim "Una discreta diferenciación entre la política y lo político y su..." for your profile
+2025-05-13 20:27:59,593 - 📩 Remitente: =?utf-8?b?w4fsdmfybybtw6fuy2hlei1qywxlbmnpysbhw7ntzxo=?= <alpalencia01@gmail.com>
+2025-05-13 20:27:59,596 - 🔗 Enlaces: https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/>, https://www.academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/mentions/claim_papers/claim?paper_id=1610098872>, https://www.academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/mentions_verification?anticlaim_paper_id=1610098872>, https://academia.edu/keypass/K3Z5dCszUXhJaWRLSE1tbFRQb2hJREFjblRDa1ZYZ2k3K04vUytPOUp2Zz0tLW8zZFArcDZCUnRyRU9hMmMxMTJDOWc9PQ==--7126dbda13400171fd47163af2fec7d634fb6034/t/iqnKL-SzHocNP-KZPWz/confirm_unsubscribe/confirm_papers>, https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/privacy>, https://www.academia.edu/t/iqnKL-SzHocNP-KZPWz/terms>
+2025-05-13 20:27:59,782 - 📝 Cuerpo (truncado):
+---------- Forwarded message ---------
+De: Una discreta diferenciación entre la política y lo político y su
+incidencia sobre la educación en cuanto socialización política <
+updates@academia-mail.com>
+Date: dom, 11 may 2025 a las 10:01
+Subject: Claim "Una discreta diferenciación entre la polític...
+2025-05-13 20:27:59,782 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:28:00,515 - 📩 Correo mantenido como no leído
+2025-05-13 20:28:00,515 - ============================================================
+2025-05-13 20:28:00,926 - 
+📌 Asunto: Fwd: Nueva solicitud en la Sede Electrónica de la UGR
+2025-05-13 20:28:00,926 - 📩 Remitente: =?utf-8?q?pablo_s=c3=a1nchez=2dpalencia?= <ppalencia01@gmail.com>
+2025-05-13 20:28:00,930 - 🔗 Enlaces: https://sede.ugr.es/sede_mi_sede_portada.html>*
+2025-05-13 20:28:01,128 - 📝 Cuerpo (truncado):
+---------- Forwarded message ---------
+De: <noreply_ead@ugr.es>
+Date: jue, 8 may 2025 a las 18:58
+Subject: Nueva solicitud en la Sede Electrónica de la UGR
+To: <ppalencia01@gmail.com>
+
+
+Estimado/a solicitante:
+Le confirmamos que se ha recibido y almacenado la documentación de su
+solicitud d...
+2025-05-13 20:28:01,128 - 🛡️ No phishing. Puntuación: 0
+2025-05-13 20:28:01,743 - 📩 Correo mantenido como no leído
+2025-05-13 20:28:01,743 - ============================================================
+2025-05-15 18:59:19,516 - 🔗 Conectando con Gmail...
+2025-05-15 18:59:20,649 - ✅ Conexión exitosa
