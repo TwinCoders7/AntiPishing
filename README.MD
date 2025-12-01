@@ -1,24 +1,29 @@
-# Detector de Phishing en URLs
+AntiPhishing: Detector de Phishing en URLs
 
-Herramienta desarrollada en Python para la detección automática de ataques de phishing.
+AntiPhishing es una herramienta desarrollada en Python para la detección automática de ataques de phishing. Permite analizar correos electrónicos y URLs sospechosas, identificando patrones y amenazas de manera eficiente.
 
----
+Este proyecto forma parte del Desafío de Talento en Ciberseguridad 2025 de INCIBE (Instituto Nacional de Ciberseguridad de España).
 
-## Descripción
+🔹 Descripción
 
-Este proyecto forma parte del Desafío de Talento en Ciberseguridad 2025 de INCIBE.
+AntiPhishing combina técnicas de inspección automática de correos electrónicos con verificación inteligente de URLs y dominios para identificar posibles intentos de phishing. La herramienta genera informes detallados y alertas para mantener seguros a los usuarios y proteger la información sensible.
 
----
+🔹 Características principales
 
-## Credenciales correo:
+✅ Análisis automático de correos electrónicos sospechosos
 
-- Correo: xxxxx@gmail.com
-- Contraseña: contraseña
+✅ Verificación de URLs y dominios fraudulentos
 
----
+✅ Detección de patrones típicos de phishing mediante reglas y heurísticas
 
-## Uso
+✅ Generación de informes de riesgo y alertas de seguridad
 
-Selecciona la interfaz según tu sistema (Windows o Linux).  
+✅ Compatible con Windows y Linux
 
-Ejecuta el programa y revisa el correo para los resultados.
+🔹 Uso
+
+Selecciona la interfaz según tu sistema operativo (Windows o Linux).
+
+Ejecuta el programa.
+
+Revisa los resultados generados en los informes de riesgo o alertas.
